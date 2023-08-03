@@ -1,0 +1,13 @@
+
+#code stuff
+.vscode
+
+#direnv stuff
+.direnv
+.envrc
+
+#I guess nvim is making dotfile logs now
+.nvimlog
+
+#bytecode
+__pycache__

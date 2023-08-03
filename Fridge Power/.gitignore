@@ -1,0 +1,10 @@
+
+#don't need the database
+*.db
+
+#ignoring nix stuff for now
+flake.nix
+flake.lock
+
+#byte-compiled
+__pycache__/
