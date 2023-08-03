@@ -44,7 +44,7 @@ CREATE TEMP VIEW sensor_day_state AS
   GROUP BY day, entity_id, state;
 
 CREATE TEMP VIEW power_day AS
-  SELECT day, entity_id,sum(state*duration)/(3.6*power(10,6)) as "energy_kwh", sum(state*duration)/1000 as "energy_kj", sum(state*duration)/3600*.12 as price_per_day, sum(duration)/60 as daily_duration_min, count(state) as quantity, strftime("%w",day) as day_of_week
+  SELECT day, entity_id, sum(state*duration)/(3.6*power(10,6)) as "energy_kwh", sum(state*duration)/1000 as "energy_kj", sum(state*duration)/(3.6*power(10,6))*.14 as price_per_day, sum(duration)/60 as daily_duration_min, count(state) as quantity, strftime("%w",day) as day_of_week
   FROM modified_diff
   WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE "\"
   GROUP BY day, entity_id;
