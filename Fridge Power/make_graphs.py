@@ -56,7 +56,7 @@ class ModifiedFrame:
             "day": "Day", 
             "entity_id": "Device",
             "energy_kwh": "Energy (kWh)",
-            "price_per_day": "Price Per Day",
+            "price_per_day": "Price Per Day ($)",
             "daily_duration_min": "Duration (m)",
             "quantity": "Times Opened Per Day",
             "day_of_week": "Day of the Week",
@@ -140,6 +140,7 @@ def main():
     on_freezer = joined[joined["Door"] == "Freezer"]
     fridge_freeze = joined.groupby("Day",).sum("Duration (m)")
     fridge_freeze["Energy (kWh)"] = fridge_freeze["Energy (kWh)"]/2
+    fridge_freeze["Price Per Day ($)"] = fridge_freeze["Price Per Day ($)"]/2
     fridge_freeze["Door"] = "Fridge + Freezer"
     fridge_freeze.index.name = "Day"
     fridge_freeze.reset_index(inplace=True)
@@ -173,6 +174,12 @@ def main():
 
     title = "Fridge + Freezer Number of Times Opened"
     seaborn_args["data"] = both
+    create_scatter(title, ["Freezer","Fridge","Fridge + Freezer"], **seaborn_args)
+
+    title = "Fridge + Freezer Time Open vs Cost"
+    seaborn_args["data"] = both
+    seaborn_args["x"] = "Duration (m)"
+    seaborn_args["y"] = "Price Per Day ($)"
     create_scatter(title, ["Freezer","Fridge","Fridge + Freezer"], **seaborn_args)
 
 def create_swarm():
@@ -253,7 +260,7 @@ def create_energy_graph(df, x, y, hue=None, name = "energy_usage.svg"):
         fig, ax = plt.subplots(figsize=(5,6))
         sns.boxplot(data=df ,x=x, y=y, hue = hue)
         ax1 = fig.axes[0]
-        ax2 = ax1.secondary_yaxis("right", functions = (lambda x: x * .12, lambda x: x / .12),)
+        ax2 = ax1.secondary_yaxis("right", functions = (lambda x: x * .14, lambda x: x / .14),)
         ax2.set_ylabel("Cost ($)")
         ax2.yaxis.set_ticks_position('none')
         fig.suptitle("Daily Energy Usage and Cost Over 100 Days")
