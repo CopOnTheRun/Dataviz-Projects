@@ -4,9 +4,9 @@
 ATTACH DATABASE 'Data/home-assistant_v2.db' as ha_db;
 
 CREATE TEMP VIEW local_states AS
-  SELECT state_id, entity_id, state, datetime(last_updated,"localtime") as local_updated, datetime(last_changed,"localtime") as local_changed
+  SELECT state_id, entity_id, state, datetime(last_updated,'localtime') as local_updated, datetime(last_changed,'localtime') as local_changed
   FROM ha_db.states
-  WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE "\"
+  WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE '\'
     OR entity_id = 'binary_sensor.fridge_contact'
     OR entity_id = 'binary_sensor.freezer_contact';
 
@@ -37,16 +37,16 @@ CREATE TEMP VIEW modified_diff AS
 
 
 CREATE TEMP VIEW sensor_day_state AS
-  SELECT day, entity_id, state, SUM(duration)/60 as daily_duration_min, count(state) as quantity, strftime("%w",day) as day_of_week
+  SELECT day, entity_id, state, SUM(duration)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
   FROM modified_diff
   WHERE entity_id = 'binary_sensor.fridge_contact'
     OR entity_id = 'binary_sensor.freezer_contact'
   GROUP BY day, entity_id, state;
 
 CREATE TEMP VIEW power_day AS
-  SELECT day, entity_id, sum(state*duration)/(3.6*power(10,6)) as "energy_kwh", sum(state*duration)/1000 as "energy_kj", sum(state*duration)/(3.6*power(10,6))*.14 as price_per_day, sum(duration)/60 as daily_duration_min, count(state) as quantity, strftime("%w",day) as day_of_week
+  SELECT day, entity_id, sum(state*duration)/(3.6*power(10,6)) as 'energy_kwh', sum(state*duration)/1000 as 'energy_kj', sum(state*duration)/(3.6*power(10,6))*.14 as price_per_day, sum(duration)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
   FROM modified_diff
-  WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE "\"
+  WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE '\'
   GROUP BY day, entity_id;
 
 .mode csv
