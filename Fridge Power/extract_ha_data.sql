@@ -51,9 +51,9 @@ CREATE TEMP VIEW power_day AS
 
 .mode csv
 
-.output Data/fridge_freezer_on.csv
-SELECT * FROM local_states
-WHERE state = "on";
+.output Data/modified_diff.csv
+SELECT * FROM modified_diff
+WHERE state = 'on';
 
 .output Data/fridge_states.csv
 SELECT * FROM sensor_day_state;
