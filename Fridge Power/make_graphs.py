@@ -106,8 +106,25 @@ class ModifiedFrame:
 def main():
     matplotlib.use("cairo")  # need this here for some reason
 
-    create_swarm()
+    on_times = pd.read_csv(
+        "Data/modified_diff.csv",
+        parse_dates=["local_updated"],
+        index_col="local_updated",
+    )
+    entities = ModifiedFrame.contact().entities
+    cols = ModifiedFrame.contact().columns | {"duration_sec": "Duration (s)"}
+    ons = ModifiedFrame(on_times, entities, cols)
 
+    seaborn_args = {}
+    seaborn_args["data"] = ons.mod_frame
+    seaborn_args["x"] = "Duration (s)"
+    seaborn_args["hue"] = "Door"
+    seaborn_args["binrange"] = (0,100)
+    seaborn_args["binwidth"] = 2
+    title = "Duration for Each Occurrence the Door Was Open"
+    create_sensor_graph(title, **seaborn_args)
+    
+    create_swarm(on_times)
     # contact graph
     contact = ModifiedFrame.contact()
     contact["Day of the Week"] = contact["Day of the Week"].apply(
@@ -132,12 +149,12 @@ def main():
     title = "Number of Times Opened"
     seaborn_args["x"] = "Times Opened Per Day"
     seaborn_args["binwidth"] = 5
-    create_sensor_graph(title, **seaborn_args)
+    create_sensor_graph(title, "Number of Days", **seaborn_args)
 
     title = "Cumulative Time Open Per Day"
     seaborn_args["x"] = "Duration (m)"
     seaborn_args["binwidth"] = 1
-    create_sensor_graph(title, **seaborn_args)
+    create_sensor_graph(title, "Number of Days", **seaborn_args)
 
     power = ModifiedFrame.power()
 
@@ -201,8 +218,7 @@ def main():
     seaborn_args["y"] = "Price Per Day ($)"
     create_scatter(title, ["Freezer", "Fridge", "Fridge + Freezer"], **seaborn_args)
 
-
-def create_swarm():
+def create_swarm(on_times):
     names = {
         "state_id": "State ID",
         "entity_id": "Door",
@@ -210,12 +226,6 @@ def create_swarm():
         "local_updated": "Time",
         "local_changed": "Changed",
     }
-
-    on_times = pd.read_csv(
-        "Data/modified_diff.csv",
-        parse_dates=["local_updated"],
-        index_col="local_updated",
-    )
 
     ent_dict = {"fridge": "Fridge", "freezer": "Freezer"}
     ents = ModifiedFrame.create_entities(ent_dict, "contact")
@@ -285,13 +295,13 @@ def create_scatter(title, new_index=None, **kwargs):
         save(fig, title)
 
 
-def create_sensor_graph(title="states", **kwargs):
+def create_sensor_graph(title="states", ylabel = "Count", **kwargs):
     with sns.axes_style("darkgrid"), sns.color_palette("deep"):
         fig, ax = plt.subplots()
         sns.histplot(**kwargs)
         fig = ax.figure
         ax.set_title(f"{title}".title())
-        ax.set_ylabel("Number of Days")
+        ax.set_ylabel(ylabel)
         fig.tight_layout()
         save(fig, title)
 
