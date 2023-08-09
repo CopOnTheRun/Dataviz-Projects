@@ -29,7 +29,7 @@ CREATE TEMP VIEW modified_diff AS
     FROM datelist
     WHERE datetime(unique_day,'+1 day') < (SELECT max(date(local_updated)) FROM local_states)
   )
-  SELECT *, (min(julianday(next_update),julianday(datelist.unique_day,'+1 day')) - max(julianday(local_updated),julianday(datelist.unique_day)))*60*60*24 as duration, date(datelist.unique_day) as day
+  SELECT *, (min(julianday(next_update),julianday(datelist.unique_day,'+1 day')) - max(julianday(local_updated),julianday(datelist.unique_day)))*60*60*24 as duration_sec, date(datelist.unique_day) as day
   FROM offset_view
   JOIN datelist
   WHERE local_updated <= datetime(datelist.unique_day, '+1 day')
@@ -37,14 +37,14 @@ CREATE TEMP VIEW modified_diff AS
 
 
 CREATE TEMP VIEW sensor_day_state AS
-  SELECT day, entity_id, state, SUM(duration)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
+  SELECT day, entity_id, state, SUM(duration_sec)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
   FROM modified_diff
   WHERE entity_id = 'binary_sensor.fridge_contact'
     OR entity_id = 'binary_sensor.freezer_contact'
   GROUP BY day, entity_id, state;
 
 CREATE TEMP VIEW power_day AS
-  SELECT day, entity_id, sum(state*duration)/(3.6*power(10,6)) as 'energy_kwh', sum(state*duration)/1000 as 'energy_kj', sum(state*duration)/(3.6*power(10,6))*.14 as price_per_day, sum(duration)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
+  SELECT day, entity_id, sum(state*duration_sec)/(3.6*power(10,6)) as 'energy_kwh', sum(state*duration_sec)/1000 as 'energy_kj', sum(state*duration_sec)/(3.6*power(10,6))*.14 as price_per_day, sum(duration_sec)/60 as daily_duration_min, count(state) as quantity, strftime('%w',day) as day_of_week
   FROM modified_diff
   WHERE entity_id LIKE 'sensor.%\_current\_consumption' ESCAPE '\'
   GROUP BY day, entity_id;

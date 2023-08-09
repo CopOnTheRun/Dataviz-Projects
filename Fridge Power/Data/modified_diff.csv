@@ -1,4 +1,4 @@
-state_id,entity_id,state,local_updated,local_changed,next_state,next_update,unique_day,duration,day
+state_id,entity_id,state,local_updated,local_changed,next_state,next_update,unique_day,duration_sec,day
 14866563,binary_sensor.freezer_contact,on,"2022-10-26 08:19:01",,off,"2022-10-26 08:19:10","2022-10-26 00:00:00",9.00003165006638,2022-10-26
 14866573,binary_sensor.fridge_contact,on,"2022-10-26 08:19:11",,off,"2022-10-26 08:19:31","2022-10-26 00:00:00",20.0000122189522,2022-10-26
 14868212,binary_sensor.freezer_contact,on,"2022-10-26 09:42:14",,off,"2022-10-26 09:42:20","2022-10-26 00:00:00",5.99996745586395,2022-10-26
