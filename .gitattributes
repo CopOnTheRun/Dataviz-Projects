@@ -1,0 +1,3 @@
+#most of the svgs in this repo will be generated and thus I'm going to treat
+#them as binary
+*.svg binary
