@@ -87,10 +87,10 @@ def main():
     df = load_dataframe()
     salary = df[df["Group"] == "Salary"]
     sns.set_theme()
-    salary_hist(salary,"Salary_Hist.png")
-    salary_box(salary,"Salary_Box.png")
-    age_hist(df,"Age_Hist.png")
-    salary_vs_comparisons(salary,"salary_age.png")
+    salary_hist(salary,"Images/Salary_Hist.svg")
+    salary_box(salary,"Images/Salary_Box.svg")
+    age_hist(df,"Images/Age_Hist.svg")
+    salary_vs_comparisons(salary,"Images/salary_age.svg")
 
 
 if __name__ == "__main__":
