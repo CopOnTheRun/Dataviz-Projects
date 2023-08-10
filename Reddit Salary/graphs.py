@@ -76,8 +76,8 @@ def age_hist(df: pd.DataFrame, filename: str) -> None:
     fig.savefig(filename,dpi=300)
 
 def load_dataframe():
-    salary = pd.read_csv("Reddit Salary.csv",index_col=0)
-    new_comments = pd.read_csv("new_comments.csv",index_col=0,nrows=500)
+    salary = pd.read_csv("Data/Salary Thread Data.csv",index_col=0)
+    new_comments = pd.read_csv("Data/new_comments.csv",index_col=0,nrows=500)
     salary["Group"] = "Salary"
     new_comments["Group"] = "Recent"
     df = pd.concat([salary,new_comments],ignore_index = True)
