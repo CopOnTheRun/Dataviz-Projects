@@ -4,10 +4,10 @@ Luckily for my curiosity, Windows has an option to get the current health of you
 
 From the graph below we can see the battery appears to not start at the full capacity, which I'm not entirely sure as to why. There's also a bump up in capacity around 22 weeks for some reason. But the real meat and potatoes of this image is at around 45 weeks. It just starts to tank going from 80% capacity to 60% in about 10 weeks. That also happens to coincide with when the 52 week warranty ends. Interesting! This mildly supports my hypothesis that big computer doesn't want to pay out on their warranties. I just need a couple more hundred people to make sure I wasn't a fluke!
 
-![A nearly monotonically decreasing line](Images/Battery Percent.svg)
+![A nearly monotonically decreasing line](Images/Battery_Percent.svg)
 
 Here's a graph of the weekly change. A ten percent decrease in a week is no joke. I can only wonder if it was left out in the sun at some point around that time.
 
-![some bars below the x axis and one above](Images/Weekly Change.svg)
+![some bars below the x axis and one above](Images/Weekly_Change.svg)
 
 Anyway reach out to me if this is enough evidence for a class action.
