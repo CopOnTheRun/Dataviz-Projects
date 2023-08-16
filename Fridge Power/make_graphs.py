@@ -182,6 +182,13 @@ def main():
     fridge_freeze.reset_index(inplace=True)
     both = pd.concat((joined, fridge_freeze))
 
+    #this is some cleaned csvs for a middle school class
+    cleaned = both[["Day", "Door", "Duration (m)", "Energy (kWh)"]]
+    cleaned.sort_values("Day",inplace=True)
+    cleaned.to_csv("Data/fridge_freezer_power.csv",index=False)
+    cleaned[cleaned["Door"]=="Freezer"].to_csv("Data/freezer_power.csv",index=False)
+    cleaned[cleaned["Door"]=="Fridge"].to_csv("Data/fridge_power.csv",index=False)
+
     seaborn_args = {}
     seaborn_args["x"] = "Duration (m)"
     seaborn_args["y"] = "Energy (kWh)"
