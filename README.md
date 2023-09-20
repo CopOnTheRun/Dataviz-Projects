@@ -1,6 +1,6 @@
 # Data Visualizations
 
-Welcome to my repository of things I want to see graphed! Most everything here is from my life, or Reddit, which composes a larger part of my life than I'd care to admit.
+Welcome to my repository of things I want to see graphed! Most everything here is from my life, or Reddit, which composes a larger part of my life than I'd care to admit. Also I don't vouch for the code quality in these projects, most of them were one and done, sorry if you have to read the code for some reason.
 
 Here's a quick overview of the projects. Enter the projects directory for a more in depth explanation!
 
