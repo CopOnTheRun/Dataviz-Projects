@@ -2,6 +2,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import pyplot as plt
 import matplotlib.ticker as mtick
+from scipy import stats
 
 def main():
     df = pd.read_csv("Data/part_table_cleaned.csv", parse_dates=["created_utc"])
@@ -14,6 +15,7 @@ def main():
     full_parts = df.loc[whole & dollar & after_2012]
     quantile_year(full_parts)
     part_cost(full_parts)
+    bitcoin_vs_gpu_prices(df)
 
 def quantile_year(df, name = "Images/quantile_year.svg"):
     """Creates a graph of the quantiled price across time"""
@@ -78,6 +80,61 @@ def part_cost(df,):
     fig.tight_layout()
     fig.savefig("Images/Part_Breakdown.svg")
 
+def bitcoin_vs_gpu_prices(df):
+    fig,ax = plt.subplots()
+
+    #constraints on dataframe
+    is_gpu = df.Type == "Video Card"
+    not_0 = df.Price != 0
+    not_crazy = df.Price < df.Price.quantile(.999)
+    dollars = df.Symbol == "$"
+    gpu = df.loc[is_gpu & not_0 & not_crazy & dollars]
+
+    #change index to datetime
+    gpu.index = pd.to_datetime(gpu.Date)
+    
+    #quantiles
+    quantiles = [.1,.25,.5,.75,.9]
+    monthly_gpu = gpu.resample("1M").quantile(quantiles,numeric_only=True)[["Price","Value"]]
+
+    #gets bitcoin prices
+    btc_prices = pd.read_csv("Data/BTC-USD.csv")
+    btc_prices.index = pd.to_datetime(btc_prices.Date)
+    monthly_btc = btc_prices.Close.resample("1M").last()
+    btc_df = pd.merge(monthly_gpu,monthly_btc,left_index=True,right_index=True)
+    btc_df.index = btc_df.index.rename(["Date","Quantile"])
+    btc_df["Close"] = btc_df.Close*btc_df.pop("Value")
+
+    fig,ax = plt.subplots()
+    median = btc_df[btc_df.index.get_level_values(1) == .5]
+    cumsum = median.pct_change().cumsum()
+    sns.lineplot(data = cumsum, x = cumsum.index.get_level_values(0),
+                 y = "Close", ax = ax, label = "BTC-USD Rate")
+    sns.lineplot(data = cumsum, x = cumsum.index.get_level_values(0), 
+                 y = "Price", ax=ax, label = "Median GPU Price")
+    ax.set_ylabel("Relative Change in Price")
+    ax.set_title("Effects of Bitcoin on /r/buildapc GPU Price")
+    fig.tight_layout()
+    fig.savefig("Images/Relative Change in BTC & GPU.svg")
+
+    median["Close"] = median.Close/1000
+    fig,ax = plt.subplots()
+    sns.scatterplot(data = median, x="Close", y = "Price",
+                    linewidth=0, alpha = .7, ax=ax)
+    ax.set_ylabel("Median GPU Price")
+    ax.yaxis.set_major_formatter("${x:1.0f}")
+    ax.xaxis.set_major_formatter("${x:1,.0f}k")
+    ax.set_xlabel("Bitcoin to USD Rate")
+    ax.set_title("Bitcoin Price vs Median GPU Prices on /r/buildapc")
+
+    #linear regression
+    m, b, r, *_ = stats.linregress(x = median.Close, y = median.Price)
+    sns.lineplot(
+            x = (0,median.Close.max()),
+            y = (b,median.Close.max()*m+b),
+            label = f"$y = {m:.2f}x + {b:.0f}$", ax = ax)
+    fig.tight_layout()
+    fig.savefig("Images/BTC vs Median GPU.svg")
+
 if __name__ == "__main__":
     main()
-
