@@ -36,5 +36,19 @@ Now that you know how much a computer costs, you might start to wonder how much 
 
 ![Price part percentiles](Images/Part_Breakdown.svg)
 
+### Part 2 - GPUs and Bitcoin
+
+When posting the graphs from the previous section [to reddit](https://www.reddit.com/r/dataisbeautiful/comments/16hlqbf/a_10_year_price_breakdown_of_computers_posted_to/) one of the thread's commentors wondered if there was a correlation between GPU price and the Bitcoin-USD exchange rate. This wasn't something I had really thought about, but I did know it would be easy enough to figure out considering I had *almost* all the data at my finger tips. The only piece missing was historical BTC-USD data. Fortunately for me yahoo finance had such data in [an easily downloadable format](https://finance.yahoo.com/quote/BTC-USD/history?period1=1410825600&period2=1695168000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true). 
+
+With my new csv file in hand, it was pretty easy to aggregate data into pretty looking graphs. The first compares the relative change in the price of GPU and BTC-USD exchange rate.
+
+![Change in Bitcoin exchange rate and median GPU price](Images/Relative_Change_in_BTC_&_GPU.svg)
+
+I'll admit this first graph is a bit obscure to understand, but it's a cumulative sum of the relative change of the price. The left axis can basically be read as "how many times has the price doubled since the starting point". In this example the bitcoint exchange rate starts at ~$465 and peaks at ~$60k which is about 7 doublings of price! The median GPU price only tops out at one doubling of price. This is essentially just a log plot of the price change. The next graph is much easier to understand, I promise!
+
+![Bitcoin exchange rate vs median GPU price scatterplot](Images/BTC_vs_Median_GPU.svg)
+
+Yup, this one just plots the price of a bitcoin in USD to the median GPU price. It seems there's a rather strong correlation, but you know what they say about those. That being said, still interesting data nonetheless.
+ 
 
 And that's where I'll leave you today.
