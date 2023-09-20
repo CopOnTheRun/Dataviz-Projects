@@ -3,6 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import matplotlib.ticker as mtick
 from scipy import stats
+from numpy import linspace
 
 def main():
     df = pd.read_csv("Data/part_table_cleaned.csv", parse_dates=["created_utc"])
@@ -117,22 +118,23 @@ def bitcoin_vs_gpu_prices(df):
     fig.tight_layout()
     fig.savefig("Images/Relative_Change_in_BTC_&_GPU.svg")
 
-    median["Close"] = median.Close/1000
     fig,ax = plt.subplots()
     sns.scatterplot(data = median, x="Close", y = "Price",
                     linewidth=0, alpha = .7, ax=ax)
     ax.set_ylabel("Median GPU Price")
-    ax.yaxis.set_major_formatter("${x:1.0f}")
-    ax.xaxis.set_major_formatter("${x:1,.0f}k")
     ax.set_xlabel("Bitcoin to USD Rate")
     ax.set_title("Bitcoin Price vs Median GPU Prices on /r/buildapc")
+    ax.set_xscale("log",base = 2)
+    ax.yaxis.set_major_formatter("${x:1.0f}")
+    ax.xaxis.set_major_formatter("${x:1,.0f}")
+    ax.set_xticks([500,10**3,5*10**3,10**4,5*10**4])
 
     #linear regression
     m, b, r, *_ = stats.linregress(x = median.Close, y = median.Price)
-    sns.lineplot(
-            x = (0,median.Close.max()),
-            y = (b,median.Close.max()*m+b),
-            label = f"$y = {m:.2f}x + {b:.0f}$", ax = ax)
+    x = linspace(median.Close.min(), median.Close.max(), 1000)
+    y = m*x+b
+    sns.lineplot( x = x, y = y, 
+                 label = f"$y = {m*1000:.2}\\times 10^{{-3}}x + {b:.0f}$", ax = ax)
     fig.tight_layout()
     fig.savefig("Images/BTC_vs_Median_GPU.svg")
 
