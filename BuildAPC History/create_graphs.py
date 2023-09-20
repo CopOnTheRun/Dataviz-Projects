@@ -29,8 +29,9 @@ def quantile_year(df, name = "Images/quantile_year.svg"):
     price = monthly_quantile
     quants = monthly_quantile.index.get_level_values(1)
     sns.lineplot(x=years,y=price,hue=quants,ax=ax)
-    ax.set_ylabel("Price Adjusted for Inflation ($)")
+    ax.set_ylabel("Price Adjusted for Inflation")
     ax.set_title("Cost of the Nth Percentile PC on /r/buildapc by Year")
+    ax.yaxis.set_major_formatter("${x:1,.0f}")
     ax.figure.tight_layout()
     ax.figure.savefig(name,)
 
