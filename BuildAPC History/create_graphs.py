@@ -115,7 +115,7 @@ def bitcoin_vs_gpu_prices(df):
     ax.set_ylabel("Relative Change in Price")
     ax.set_title("Effects of Bitcoin on /r/buildapc GPU Price")
     fig.tight_layout()
-    fig.savefig("Images/Relative Change in BTC & GPU.svg")
+    fig.savefig("Images/Relative_Change_in_BTC_&_GPU.svg")
 
     median["Close"] = median.Close/1000
     fig,ax = plt.subplots()
@@ -134,7 +134,7 @@ def bitcoin_vs_gpu_prices(df):
             y = (b,median.Close.max()*m+b),
             label = f"$y = {m:.2f}x + {b:.0f}$", ax = ax)
     fig.tight_layout()
-    fig.savefig("Images/BTC vs Median GPU.svg")
+    fig.savefig("Images/BTC_vs_Median_GPU.svg")
 
 if __name__ == "__main__":
     main()
