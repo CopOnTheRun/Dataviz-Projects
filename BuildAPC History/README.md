@@ -49,6 +49,6 @@ I'll admit this first graph is a bit obscure to understand, but it's a cumulativ
 ![Bitcoin exchange rate vs median GPU price scatterplot](Images/BTC_vs_Median_GPU.svg)
 
 Yup, this one just plots the price of a bitcoin in USD to the median GPU price. It seems there's a rather strong correlation, but you know what they say about those. That being said, still interesting data nonetheless.
- 
 
+ ![Part Race Video](CPU_Part_race.mp4)
 And that's where I'll leave you today.
