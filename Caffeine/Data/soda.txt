@@ -1,0 +1,91 @@
+7-Up	12	140	0	0.0
+A&W Cream Soda	12	170	0	0.0
+A&W Root Beer	12	170	0	0.0
+A&W Zero Sugar Cream Soda	12	0	0	0.0
+Afri Cola	11.16	139	83	7.4
+Ale 8 1	12	120	37	3.1
+Barqs Red Creme Soda	12	170	0	0.0
+Barqs Root Beer	12	160	22	1.8
+Bawls	16	190	102	6.4
+Big Red Soda	12	150	34	2.8
+Boost Nutritional Drink	8	240	5	0.6
+Canada Dry Green Tea Ginger Ale	12	140	9	0.8
+Cheerwine	12	150	47	3.9
+Coca-Cola Caffeine Free	12	140	0	0.0
+Coca-Cola Cherry	12	150	34	2.8
+Coca-Cola Cherry Zero Sugar	12	0	34	2.8
+Coca-Cola Classic	12	140	34	2.8
+Coca-Cola Orange Vanilla	12	140	34	2.8
+Coca-Cola Vanilla	12	150	34	2.8
+Coca-Cola Vanilla Zero Sugar	12	0	34	2.8
+Coca-Cola With Coffee	12	70	69	5.8
+Coca-Cola Zero Sugar	12	0	34	2.8
+Diet Barqs Root Beer	12	0	0	0.0
+Diet Cheerwine	12	0	47	3.9
+Diet Coke	12	0	46	3.8
+Diet Coke with Splenda	12	0	46	3.8
+Diet Dr Pepper	12	0	41	3.4
+Diet Mountain Dew	12	0	54	4.5
+Diet Pepsi	12	0	35	2.9
+Diet RC Cola	12	0	48	4.0
+Diet Wild Cherry Pepsi	12	0	38	3.2
+doc Soda	12	150	60	5.0
+Double Cola	12	160	36	3.0
+Dr Pepper	12	150	42	3.5
+Dr Pepper 10	12	10	51	4.2
+Dr Shasta Soda	12	0	29	2.4
+Fanta	12	160	0	0.0
+Faygo Cola	12	165	43	3.6
+Faygo Moon Mist	12	150	20	1.6
+Fresca	12	0	0	0.0
+Fritz Kola (EU)	11.16	135	83	7.4
+Ginger Ale	12	140	0	0.0
+Green Cola	12	0	37	3.1
+IBC Root Beer	12	160	0	0.0
+Inca Kola	12	140	38	3.2
+Kickapoo Soda: Joy Juice & Fruit Shine	12	190	40	3.3
+Mello Yello	12	170	51	4.2
+Mountain Dew	12	170	54	4.5
+Mountain Dew Baja Blast	12	170	54	4.5
+Mountain Dew Code Red	12	170	54	4.5
+Mountain Dew Kickstart	16	80	90	5.6
+Mountain Dew Live Wire	12	180	54	4.5
+Mountain Dew Major Melon	12	160	55	4.6
+Mountain Dew Voltage	12	170	55	4.6
+Mountain Dew Zero Sugar	12	0	68	5.7
+Moxie Soda	12	140	24	2.0
+Mucho Mango Energy Drink	8	100	0	0.0
+Mug Root Beer	12	160	0	0.0
+Orange Crush	12	160	0	0.0
+Panera Charged Lemonade	30	280	390	13.0
+PC Cola	12	150	12	1.0
+PC Cola Diet	12	0	13	1.1
+Pepsi	12	150	38	3.2
+Pepsi Caffeine Free	12	150	0	0.0
+Pepsi Made With Sugar	12	150	38	3.2
+Pepsi Max (UK)	11.16	0	43	3.8
+Pepsi Zero Sugar 	12	0	38	3.2
+Pibb Xtra	12	140	40	3.3
+Premium Cola (EU)	11.16	132	83	7.4
+RC (Royal Crown) Cola	12	160	43	3.6
+Red Bull Simply Cola	8.46	0	32	3.8
+Ritz Cola	12	144	10	0.9
+Ruby Red Squirt	12	170	39	3.2
+Sarsaparilla	12	170	0	0.0
+Shasta Cola	12	170	43	3.6
+Shasta Diet Cola	12	0	47	3.9
+Shasta Mountain Rush	12	150	54	4.5
+Ski Soda	12	180	69	5.8
+Slurpee	12	90	30	2.5
+Soda Stream	8	40	31	3.9
+Sprecher Cherry Cola	16	240	0	0.0
+Sprite	12	140	0	0.0
+Squirt Soda	12	140	0	0.0
+Starbucks Refreshers Canned	12	90	50	4.2
+Sun Drop Soda	12	170	64	5.3
+Sunkist Orange Soda	12	160	19	1.6
+Tropicana Twister Soda	20	320	0	0.0
+Vernors Ginger Ale	12	140	0	0.0
+Wave Soda	12	25	42	3.5
+Wild Cherry Pepsi	12	160	38	3.2
+Zevia Cola	12	0	45	3.8

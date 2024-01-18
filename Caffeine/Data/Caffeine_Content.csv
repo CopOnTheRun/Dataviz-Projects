@@ -1,0 +1,555 @@
+Drink,fl oz,Calories,Caffeine (mg),mg/ floz,Type
+3 Water ,16.9,0,50,3.0,water
+AHA Sparkling Water,12.0,0,30,2.5,water
+Arti Sparkling Water,12.0,0,120,10.0,water
+Bubbl'r Sparkling Water,12.0,5,69,5.8,water
+Bubly Bounce Sparkling Water,12.0,0,35,2.9,water
+Bubly Sparkling Water,12.0,0,0,0.0,water
+Caribou BOUsted Sparkling Water,11.5,0,75,6.5,water
+GURU Sparkling Energy Water,12.0,0,100,8.3,water
+Heroec Energy Water,16.9,0,60,3.6,water
+Hint Caffeine Kick Water,16.0,0,60,3.8,water
+La Croix Sparkling Water,12.0,0,0,0.0,water
+Limitless Sparkling Water,12.0,0,35,2.9,water
+MiO Energy Water Enhancer,8.0,0,60,7.5,water
+Monster Tour Water,16.0,0,0,0.0,water
+Pep Talk Sparkling Water,12.0,0,55,4.6,water
+Perrier Energize,8.46,35,99,11.7,water
+Perrier Sparkling Water,11.15,0,0,0.0,water
+Phocus Sparkling Water,11.5,0,75,6.5,water
+Poland Spring Sparkling Energy Water,11.5,35,75,6.5,water
+Polar Frost Plus Energy,17.0,10,67,3.9,water
+Polar Seltzer Water,12.0,0,0,0.0,water
+Sparkling Ice +Caffeine,16.0,5,70,4.4,water
+Tonic Water,10.0,110,0,0.0,water
+VitaminWater Energy ,20.0,100,50,2.5,water
+VitaRain Zero Enhanced Water,20.0,0,42,2.1,water
+Water Joe,20.0,0,70,3.5,water
+Yerbae Sparkling Water,12.0,0,100,8.3,water
+7-Up,12.0,140,0,0.0,soda
+A&W Cream Soda,12.0,170,0,0.0,soda
+A&W Root Beer,12.0,170,0,0.0,soda
+A&W Zero Sugar Cream Soda,12.0,0,0,0.0,soda
+Afri Cola,11.16,139,83,7.4,soda
+Ale 8 1,12.0,120,37,3.1,soda
+Barqs Red Creme Soda,12.0,170,0,0.0,soda
+Barqs Root Beer,12.0,160,22,1.8,soda
+Bawls,16.0,190,102,6.4,soda
+Big Red Soda,12.0,150,34,2.8,soda
+Boost Nutritional Drink,8.0,240,5,0.6,soda
+Canada Dry Green Tea Ginger Ale,12.0,140,9,0.8,soda
+Cheerwine,12.0,150,47,3.9,soda
+Coca-Cola Caffeine Free,12.0,140,0,0.0,soda
+Coca-Cola Cherry,12.0,150,34,2.8,soda
+Coca-Cola Cherry Zero Sugar,12.0,0,34,2.8,soda
+Coca-Cola Classic,12.0,140,34,2.8,soda
+Coca-Cola Orange Vanilla,12.0,140,34,2.8,soda
+Coca-Cola Vanilla,12.0,150,34,2.8,soda
+Coca-Cola Vanilla Zero Sugar,12.0,0,34,2.8,soda
+Coca-Cola With Coffee,12.0,70,69,5.8,soda
+Coca-Cola Zero Sugar,12.0,0,34,2.8,soda
+Diet Barqs Root Beer,12.0,0,0,0.0,soda
+Diet Cheerwine,12.0,0,47,3.9,soda
+Diet Coke,12.0,0,46,3.8,soda
+Diet Coke with Splenda,12.0,0,46,3.8,soda
+Diet Dr Pepper,12.0,0,41,3.4,soda
+Diet Mountain Dew,12.0,0,54,4.5,soda
+Diet Pepsi,12.0,0,35,2.9,soda
+Diet RC Cola,12.0,0,48,4.0,soda
+Diet Wild Cherry Pepsi,12.0,0,38,3.2,soda
+doc Soda,12.0,150,60,5.0,soda
+Double Cola,12.0,160,36,3.0,soda
+Dr Pepper,12.0,150,42,3.5,soda
+Dr Pepper 10,12.0,10,51,4.2,soda
+Dr Shasta Soda,12.0,0,29,2.4,soda
+Fanta,12.0,160,0,0.0,soda
+Faygo Cola,12.0,165,43,3.6,soda
+Faygo Moon Mist,12.0,150,20,1.6,soda
+Fresca,12.0,0,0,0.0,soda
+Fritz Kola (EU),11.16,135,83,7.4,soda
+Ginger Ale,12.0,140,0,0.0,soda
+Green Cola,12.0,0,37,3.1,soda
+IBC Root Beer,12.0,160,0,0.0,soda
+Inca Kola,12.0,140,38,3.2,soda
+Kickapoo Soda: Joy Juice & Fruit Shine,12.0,190,40,3.3,soda
+Mello Yello,12.0,170,51,4.2,soda
+Mountain Dew,12.0,170,54,4.5,soda
+Mountain Dew Baja Blast,12.0,170,54,4.5,soda
+Mountain Dew Code Red,12.0,170,54,4.5,soda
+Mountain Dew Kickstart,16.0,80,90,5.6,soda
+Mountain Dew Live Wire,12.0,180,54,4.5,soda
+Mountain Dew Major Melon,12.0,160,55,4.6,soda
+Mountain Dew Voltage,12.0,170,55,4.6,soda
+Mountain Dew Zero Sugar,12.0,0,68,5.7,soda
+Moxie Soda,12.0,140,24,2.0,soda
+Mucho Mango Energy Drink,8.0,100,0,0.0,soda
+Mug Root Beer,12.0,160,0,0.0,soda
+Orange Crush,12.0,160,0,0.0,soda
+Panera Charged Lemonade,30.0,280,390,13.0,soda
+PC Cola,12.0,150,12,1.0,soda
+PC Cola Diet,12.0,0,13,1.1,soda
+Pepsi,12.0,150,38,3.2,soda
+Pepsi Caffeine Free,12.0,150,0,0.0,soda
+Pepsi Made With Sugar,12.0,150,38,3.2,soda
+Pepsi Max (UK),11.16,0,43,3.8,soda
+Pepsi Zero Sugar ,12.0,0,38,3.2,soda
+Pibb Xtra,12.0,140,40,3.3,soda
+Premium Cola (EU),11.16,132,83,7.4,soda
+RC (Royal Crown) Cola,12.0,160,43,3.6,soda
+Red Bull Simply Cola,8.46,0,32,3.8,soda
+Ritz Cola,12.0,144,10,0.9,soda
+Ruby Red Squirt,12.0,170,39,3.2,soda
+Sarsaparilla,12.0,170,0,0.0,soda
+Shasta Cola,12.0,170,43,3.6,soda
+Shasta Diet Cola,12.0,0,47,3.9,soda
+Shasta Mountain Rush,12.0,150,54,4.5,soda
+Ski Soda,12.0,180,69,5.8,soda
+Slurpee,12.0,90,30,2.5,soda
+Soda Stream,8.0,40,31,3.9,soda
+Sprecher Cherry Cola,16.0,240,0,0.0,soda
+Sprite,12.0,140,0,0.0,soda
+Squirt Soda,12.0,140,0,0.0,soda
+Starbucks Refreshers Canned,12.0,90,50,4.2,soda
+Sun Drop Soda,12.0,170,64,5.3,soda
+Sunkist Orange Soda,12.0,160,19,1.6,soda
+Tropicana Twister Soda,20.0,320,0,0.0,soda
+Vernors Ginger Ale,12.0,140,0,0.0,soda
+Wave Soda,12.0,25,42,3.5,soda
+Wild Cherry Pepsi,12.0,160,38,3.2,soda
+Zevia Cola,12.0,0,45,3.8,soda
+Arizona Iced Tea,16.0,190,30,1.9,tea
+Big Train Spiced Chai,8.0,210,65,8.1,tea
+Bigelow Tea,8.0,0,45,5.6,tea
+Biggby Iced Tea,16.0,0,38,2.4,tea
+Brew Dr Kombucha Uplift,14.0,80,130,9.3,tea
+Brisk Iced Tea,12.0,70,11,0.9,tea
+Brown Rice Tea,8.0,0,4,0.5,tea
+Chai Tea,8.0,0,50,6.2,tea
+Chick-fil-A Iced Tea,16.0,120,62,3.9,tea
+Cold Brew Tea,8.0,0,70,8.8,tea
+Crystal Light Iced Tea,8.0,5,10,1.2,tea
+Dunkin' Donuts Iced Tea,24.0,230,63,2.6,tea
+Fast Lane Black Tea,8.0,0,110,13.8,tea
+Fuze Iced Tea,24.0,160,24,1.0,tea
+Gold Peak Tea,18.5,0,48,2.6,tea
+Guayaki Canned Yerba Mate,15.5,120,150,9.7,tea
+Guayaki Yerba Mate Bottled Tea,16.0,80,140,8.8,tea
+Guayusa Tea,8.0,0,41,5.1,tea
+HICAF Tea,8.0,0,110,13.8,tea
+Honest Iced Tea,16.9,70,63,3.7,tea
+Inko's White Tea Energy,15.5,100,165,10.6,tea
+K Cup Tea,8.0,0,41,5.1,tea
+KOE Kombucha,12.0,35,15,1.2,tea
+Kombucha Tea,8.0,30,24,3.0,tea
+Lipton Iced Tea,20.0,110,25,1.2,tea
+Lipton Natural Energy Tea,8.0,0,75,9.4,tea
+Lipton Tea,8.0,0,55,6.9,tea
+Liquid Death Iced Tea,19.2,30,30,1.6,tea
+Master Brew Kombucha,15.2,60,76,5.0,tea
+Matcha Tea,8.0,0,64,8.0,tea
+McDonalds Sweet Tea,32.0,160,100,3.1,tea
+Morning Thunder Tea,8.0,0,45,5.6,tea
+Nestea Iced Tea,16.9,160,23,1.4,tea
+Oi Ocha Green Tea,16.9,5,60,3.6,tea
+Oregon Chai Tea,6.0,130,45,7.5,tea
+Pacific Chai,6.0,90,29,4.8,tea
+Peace Tea,23.0,150,23,1.0,tea
+PG Tips Black Tea,6.78,0,50,7.4,tea
+Pure Leaf Iced Tea,18.5,160,69,3.7,tea
+Sencha Green Tea Shot,6.4,0,40,6.2,tea
+Snapple Tea,16.0,150,37,2.3,tea
+SoBe Green Tea,20.0,200,7,0.3,tea
+Southern Sweet Tea,16.0,128,41,2.6,tea
+Taiwanese Milk Tea,16.0,299,151,9.4,tea
+Tazo Chai,8.0,0,47,5.9,tea
+Tea (Black),8.0,0,42,5.2,tea
+Tea (Decaf),8.0,0,4,0.5,tea
+Tea (Green),8.0,0,18,2.2,tea
+Tea (Herbal),8.0,0,0,0.0,tea
+Tea (Iced),8.0,0,47,5.9,tea
+Tea (Instant),8.0,0,40,5.0,tea
+Tea (Jasmine),8.0,0,25,3.1,tea
+Tea (Oolong),8.0,0,37,4.6,tea
+Tea (White),8.0,0,28,3.5,tea
+Teas' Tea Oolong,16.9,0,70,4.1,tea
+Teavana Tea,8.0,0,41,5.1,tea
+Tejava Iced Tea,12.0,0,50,4.2,tea
+Turkey Hill Iced Tea,12.0,120,64,5.3,tea
+Twig Tea (Kukicha),8.0,0,25,3.1,tea
+Waka Instant Tea,8.0,0,30,3.8,tea
+Wendy's Iced Tea,16.0,5,32,2.0,tea
+Xing Craft Brew,16.0,5,120,7.5,tea
+Xingtea Iced Green Tea,23.5,50,110,4.7,tea
+Yellow Tea,8.0,0,63,7.9,tea
+Yerba Mate Tea,8.0,0,40,5.0,tea
+YMateina Yerba Mate,8.0,0,80,10.0,tea
+Zest Highly Caffeinated Tea,8.0,0,150,18.8,tea
+Go Girl Energy Drink,12.0,25,100,8.3,energy drink
+Goat Fuel,12.0,15,200,16.7,energy drink
+Great Value Energy Drink Enhancers,8.0,0,50,6.2,energy drink
+Great Value Energy Drink Mix,16.0,10,120,7.5,energy drink
+Gridlock Energy Drink,16.0,200,140,8.8,energy drink
+GURU Energy Drink,12.0,115,140,11.7,energy drink
+Hell Energy Drink (EU),8.46,115,80,9.5,energy drink
+Hi Ball Energy Drink,16.0,0,160,10.0,energy drink
+Hyde Xtreme,12.0,0,400,33.3,energy drink
+Hype Energy Drink (EU),8.46,108,80,9.5,energy drink
+Irn Bru (UK),11.16,65,30,2.7,energy drink
+Java Kick Coffee Cola,12.0,130,100,8.3,energy drink
+Java Monster,15.0,220,200,13.3,energy drink
+Java Monster 300,15.0,200,300,20.0,energy drink
+Joker Mad Energy,16.0,260,160,10.0,energy drink
+Juice Monster,16.0,160,160,10.0,energy drink
+Juvee,12.0,5,128,10.7,energy drink
+Kill Cliff Energy X Recover,12.0,20,25,2.1,energy drink
+Kill Cliff Ignite,12.0,25,150,12.5,energy drink
+Kin Spritz,8.0,25,50,6.2,energy drink
+Kona Gold Energy Drink,12.0,150,115,9.6,energy drink
+LevlUp Gaming Booster,16.91,8,250,14.8,energy drink
+Liquid Help Energy Drink,16.0,0,300,18.8,energy drink
+Liquid Ice Energy Drink,8.3,120,80,9.6,energy drink
+Live+ Energy Drink,16.9,227,150,8.9,energy drink
+Lucozade,12.85,133,46,3.6,energy drink
+LYFT Energy Mix,8.0,4,125,15.6,energy drink
+M-150 Energy Drink,8.46,155,80,9.5,energy drink
+Mamma Chia Energy,10.0,110,90,9.0,energy drink
+Marquis Energy Drink,12.0,0,100,8.3,energy drink
+MATI Energy Drink,12.0,90,110,9.2,energy drink
+Mega Monster Energy Drink,24.0,320,240,10.0,energy drink
+Meltdown Ketone Drink,12.0,18,225,18.8,energy drink
+Monster Assault,16.0,210,160,10.0,energy drink
+Monster Dragon Tea,23.0,100,60,2.6,energy drink
+Monster Energy,16.0,210,160,10.0,energy drink
+Monster Hydro,25.4,150,188,7.4,energy drink
+Monster Import,18.6,190,179,9.6,energy drink
+Monster Lo-Carb,16.0,30,140,8.8,energy drink
+Monster Mango Loco,16.0,240,152,9.5,energy drink
+Monster Mule,16.0,210,160,10.0,energy drink
+Monster Nitro,16.0,220,160,10.0,energy drink
+Monster Pipeline Punch,16.0,190,160,10.0,energy drink
+Monster Rehab,15.5,25,160,10.3,energy drink
+Monster Reserve,16.0,120,160,10.0,energy drink
+Monster Ripper Energy Juice (UK),16.91,185,160,9.5,energy drink
+Monster The Doctor VR46 (UK),16.91,219,160,9.5,energy drink
+Monster Ultra,16.0,10,150,9.4,energy drink
+Monster Zero Sugar,16.0,10,160,10.0,energy drink
+Moose Juice Energy Drink,16.94,0,200,11.8,energy drink
+Mother Energy Drink,16.91,228,160,9.5,energy drink
+Mountain Dew Amp,16.0,220,142,8.9,energy drink
+Mountain Dew Energy,16.0,25,180,11.2,energy drink
+Mountain Dew Game Fuel,16.0,90,90,5.6,energy drink
+Mountain Dew Spark,12.0,170,46,3.8,energy drink
+Muscle Monster,15.0,180,157,10.5,energy drink
+Nerd Focus,12.0,170,128,10.7,energy drink
+Neuro Sonic,14.5,35,100,6.9,energy drink
+NOCCO Energy Drink (EU),11.17,0,180,16.1,energy drink
+NOS Energy Drink,16.0,200,160,10.0,energy drink
+Nuun Sport,16.0,15,40,2.5,energy drink
+OCA Energy Drink,12.0,60,120,10.0,energy drink
+Octane Energy Drink Mix,12.0,25,225,18.8,energy drink
+Oikos Pro Fuel,10.0,130,100,10.0,energy drink
+OK Energy Drink,8.45,113,80,9.5,energy drink
+Oli Pop Vintage Cola,12.0,35,50,4.2,energy drink
+PerformElite Pre-Workout ,8.0,0,225,28.1,energy drink
+Perk Energy Beverage,8.0,90,100,12.5,energy drink
+Power Horse Energy Drink (EU),8.45,125,80,9.5,energy drink
+Prime Energy Drink,12.0,10,200,16.7,energy drink
+Propel Zero Powder,16.0,0,0,0.0,energy drink
+Protein2O + Energy,16.91,70,125,7.4,energy drink
+Pure Boost Energy Drink Mix,16.0,25,100,6.2,energy drink
+Pure Cofain 699 (EU),8.46,148,175,20.7,energy drink
+Pure Kick Energy Drink Mix,16.9,10,80,4.7,energy drink
+Quake Energy Berry Blast Slurpee,16.0,5,92,5.8,energy drink
+Quake Energy Drink,16.0,0,250,15.6,energy drink
+Rambler Energy Drink,16.0,60,120,7.5,energy drink
+Raze Energy Drink,16.0,0,300,18.8,energy drink
+Red Bull,8.46,117,80,9.5,energy drink
+Red Bull Editions,8.46,113,80,9.5,energy drink
+Red Bull Sugarfree,8.46,10,80,9.5,energy drink
+Red Bull Zero,8.46,0,80,9.5,energy drink
+Red Devil Energy Drink,16.0,0,160,10.0,energy drink
+Red Eye Energy Drink,11.1,149,106,9.5,energy drink
+Red Power Elixir,12.0,160,160,13.3,energy drink
+Red Thunder Energy Drink,12.0,156,120,10.0,energy drink
+Redline Princess,8.0,0,300,37.5,energy drink
+Redline Xtreme Energy Drink,8.0,0,316,39.5,energy drink
+Reign Storm,12.0,10,200,16.7,energy drink
+Reign Total Body Fuel,16.0,10,300,18.8,energy drink
+Rip It Energy Drink,16.0,260,160,10.0,energy drink
+Roaring Lion Energy Drink,8.0,100,77,9.6,energy drink
+Rockstar Boom,16.0,280,160,10.0,energy drink
+Rockstar Energy Drink (Original),16.0,250,160,10.0,energy drink
+Rockstar Halo Infinite,16.0,250,240,15.0,energy drink
+Rockstar Juiced,16.0,30,170,10.6,energy drink
+Rockstar Organic Energy Drink,15.0,180,160,10.7,energy drink
+Rockstar Punched,16.0,260,240,15.0,energy drink
+Rockstar Pure Zero,16.0,20,240,15.0,energy drink
+Rockstar Recovery,16.0,25,160,10.0,energy drink
+Rockstar Sugar Free,16.0,25,160,10.0,energy drink
+Rockstar Thermo ,16.0,0,300,18.8,energy drink
+Rockstar Unplugged,8.0,0,80,10.0,energy drink
+Rockstar XDurance,16.0,10,300,18.8,energy drink
+Rockstar Zero Carb,16.0,25,240,15.0,energy drink
+Rogue Energy Drink,16.0,5,200,12.5,energy drink
+Rogue Energy Drink Mix,16.0,5,175,10.9,energy drink
+RootJack Caffeinated Pirate Root Beer,12.0,200,120,10.0,energy drink
+Rowdy Energy Drink,16.0,5,160,10.0,energy drink
+Runa,12.0,0,150,12.5,energy drink
+Rush! Energy Drink,8.3,120,80,9.6,energy drink
+Ryse Fuel,16.0,0,200,12.5,energy drink
+Sambazon Amazon Energy Drink,12.0,120,120,10.0,energy drink
+Scheckters Energy Drink,8.46,78,80,9.5,energy drink
+Slammers Energy Drink (EU),8.46,122,80,9.5,energy drink
+Sneak Energy Drink Mix,16.0,12,150,9.4,energy drink
+SoBe Energy Citrus,20.0,250,81,4.0,energy drink
+Solimo Energy Drink,16.0,10,152,9.5,energy drink
+Source 1899 (UK),8.46,58,80,9.5,energy drink
+Soylent Stacked,11.16,180,100,9.0,energy drink
+Spark Energy Drink Mix,8.0,15,120,15.0,energy drink
+Speed Energy Fuel,16.0,240,186,11.6,energy drink
+Spider Energy Drink,16.0,120,240,15.0,energy drink
+Spike Hardcore Energy,16.0,0,350,21.9,energy drink
+Spike Shooter,12.0,10,300,25.0,energy drink
+Starbucks Triple Shot Energy,15.0,210,225,15.0,energy drink
+Steaz Energy,12.0,140,100,8.3,energy drink
+Strike Force Energy Drink Mix,16.91,0,160,9.5,energy drink
+T-Virus Antidote,12.0,160,100,8.3,energy drink
+Taurus Energy Drink,8.46,180,50,5.9,energy drink
+TENZING Natural Energy,8.46,50,80,9.5,energy drink
+Tiger Energy Drink,8.46,0,80,9.5,energy drink
+Triton Energy Drink,16.0,15,200,12.5,energy drink
+Tru Energy Wakeup,12.0,10,100,8.3,energy drink
+True Lemon Energy Mix,16.0,0,120,7.5,energy drink
+Tweaker Energy Drink,8.46,110,80,9.5,energy drink
+Ugly Energy Water,16.0,0,160,10.0,energy drink
+UPTIME Energy Drink,12.0,150,142,11.8,energy drink
+USANA Rev3 Energy Drink,12.0,105,120,10.0,energy drink
+V Energy Drink,8.45,116,78,9.2,energy drink
+V8 +Energy Drink,8.0,140,80,10.0,energy drink
+Venom Death Adder,16.0,160,160,10.0,energy drink
+Virtue Clean Energy Beverage,8.46,8,80,9.5,energy drink
+Viso Energy Drink,17.0,140,300,17.6,energy drink
+Vuum,12.0,50,135,11.2,energy drink
+Wild Tiger Energy Drink,8.36,125,75,9.0,energy drink
+Wildcat Energy Drink (UK),8.46,115,80,9.5,energy drink
+Wired X 3000 Energy Drink,16.0,220,185,11.6,energy drink
+Wired X Berry Rush,16.0,220,95,5.9,energy drink
+Wired X344 Energy Drink,16.0,220,344,21.5,energy drink
+X Ray Energy Drink,8.46,125,79,9.3,energy drink
+XL Energy Drink (EU),8.45,118,80,9.5,energy drink
+XS Energy Drink,8.4,10,80,9.5,energy drink
+Xyience Energy Drink,16.0,15,160,10.0,energy drink
+Zest Sparkling Tea,12.0,60,135,11.2,energy drink
+Zevia Energy Drink,12.0,0,120,10.0,energy drink
+ZipFizz Energy Drink Mix,16.0,20,100,6.2,energy drink
+Zoa Energy Drink,16.0,100,160,10.0,energy drink
+5 Hour Energy,1.93,4,200,103.6,energy shot
+5 Hour Energy Extra Strength,1.93,0,230,119.2,energy shot
+7-Eleven Energy Shot,2.0,0,260,130.0,energy shot
+Advocare Slam Energy Shot,2.0,10,120,60.0,energy shot
+Balance Active Shot,2.0,80,100,50.0,energy shot
+Balance Energy Shot,2.0,77,150,75.0,energy shot
+Bang Shot,3.0,0,300,100.0,energy shot
+Clif Shot Energy Gel,1.2,100,100,83.3,energy shot
+DynaPep,0.14,0,100,714.3,energy shot
+E6 Energy Shot,1.93,0,235,121.8,energy shot
+Equip Pure Energy Shot,1.8,35,100,55.6,energy shot
+Eternal Energy Extra Strength,1.93,0,280,145.1,energy shot
+Eternal Energy Shot,1.93,0,230,119.2,energy shot
+Forto Organic Coffee Shot,2.0,35,225,112.5,energy shot
+Kaffn8 Liquified Caffeine,0.25,0,75,300.0,energy shot
+Kirkland Energy Shot,2.0,5,180,90.0,energy shot
+Mana Energy Potion,1.69,25,75,44.4,energy shot
+Neu Nootropic Shot,2.0,0,350,175.0,energy shot
+Nutramint Smart Serum,2.0,45,200,100.0,energy shot
+Performance Caffeine ,2.0,0,180,90.0,energy shot
+Phoenix Energy Shot,2.0,0,280,140.0,energy shot
+Proper Wild Energy Shot,2.5,25,180,72.0,energy shot
+Red Thunder Energy Shot,2.0,0,138,69.0,energy shot
+Red Thunder Extra Strength,2.0,0,230,115.0,energy shot
+Redline Max 300,2.5,0,300,120.0,energy shot
+Redline Xtreme Shot,3.0,5,300,100.0,energy shot
+Reed's Ginger Energize Shot,2.0,24,100,50.0,energy shot
+Rip It Energy Shot,2.0,0,120,60.0,energy shot
+Screamin Energy Max Hit,0.61,40,185,303.3,energy shot
+Spike Energy Double Shot,4.26,0,350,82.2,energy shot
+Stacker Extreme Energy Shot,2.0,0,205,102.5,energy shot
+TruBrain Extra,1.0,25,100,100.0,energy shot
+Tweaker Shot,2.0,0,275,137.5,energy shot
+Vital 4U Liquid Energy,0.5,34,155,310.0,energy shot
+Woke Up Energy Shot,1.93,0,225,116.6,energy shot
+X-Mode Energy Shot,1.0,0,150,150.0,energy shot
+Zombie Blood Energy Potion,3.4,25,80,23.5,energy shot
+7 Eleven Brewed Coffee,16.0,5,280,17.5,coffee
+Alpine Start Instant Coffee,8.0,0,120,15.0,coffee
+Americano Coffee,12.0,5,154,12.8,coffee
+Arby's Jamocha Shake,16.0,830,12,0.7,coffee
+Barista Bros Iced Coffee,16.91,204,140,8.3,coffee
+Baskin Robbins Cappuccino Blast,24.0,470,234,9.8,coffee
+Big Train Java Chip Ice Coffee,12.0,410,49,4.1,coffee
+Biggby Brewed Coffee,16.0,0,200,12.5,coffee
+Biggby Creamy Lattes,16.0,387,100,6.2,coffee
+Biggby Espresso,2.0,0,100,50.0,coffee
+Biggby Iced Coffee,16.0,0,155,9.7,coffee
+Biohazard Coffee,12.0,3,928,77.3,coffee
+Bizzy Cold Brew,2.67,0,125,46.8,coffee
+Black Ink Coffee,12.0,0,144,12.0,coffee
+Black Insomnia Coffee,12.0,0,1105,92.1,coffee
+Black Label Brewed Coffee,12.0,0,1555,129.6,coffee
+Bottled Iced Coffee Dunkin Donuts,13.7,260,171,12.5,coffee
+Bulletproof Coffee,8.0,0,145,18.1,coffee
+Cafe Bustelo,12.0,0,150,12.5,coffee
+Cafe Con Leche,6.0,56,154,25.7,coffee
+Caffe Mocha,12.0,239,152,12.7,coffee
+Caffe Nero Coffee,12.0,5,160,13.3,coffee
+Califia Farms Cold Brew Coffee,8.0,10,180,22.5,coffee
+Cannonball Coffee Maximum Charge (UK),12.0,0,1101,91.8,coffee
+Cappuccino,12.0,97,154,12.8,coffee
+Caribou Brewed Coffee,16.0,5,305,19.1,coffee
+Caribou Canned Cold Brew,11.5,10,177,15.4,coffee
+CBD Coffee,8.0,0,100,12.5,coffee
+Chameleon Cold Brew Coffee,8.0,15,260,32.5,coffee
+Chameleon Cold Brew RTD,10.0,10,230,23.0,coffee
+Chameleon Cold Brew With Milk,11.0,100,100,9.1,coffee
+Chick-fil-A Brewed Coffee,10.0,0,136,13.6,coffee
+Chick-fil-A Frosted Coffee,14.0,240,130,9.3,coffee
+Chick-fil-A Iced Coffee,14.0,190,80,5.7,coffee
+Choffy (roasted cacao),6.0,0,23,3.8,coffee
+Coffee,8.0,0,163,20.4,coffee
+"Coffee (Decaf, Instant)",8.0,6,2,0.3,coffee
+Coffee (Instant),8.0,0,57,7.1,coffee
+Coffee Bean & Tea leaf Coffee,16.0,5,333,20.8,coffee
+Coffee Friend Brewed Coffee,8.46,0,145,17.1,coffee
+Coffee Leaf Tea,8.0,0,20,2.5,coffee
+COGO Caffeinated Hot Chocolate,6.0,110,98,16.3,coffee
+CoolBrew Coffee,10.0,0,60,6.0,coffee
+Costa Coffee,10.14,222,241,23.8,coffee
+Crio Bru Brewed Cacao,8.0,20,10,1.2,coffee
+Dare Iced Coffee,16.91,429,160,9.5,coffee
+Death Wish Canned Cold Brew,8.0,15,300,37.5,coffee
+Death Wish Coffee,12.0,0,728,60.7,coffee
+Death Wish Latte,8.0,170,300,37.5,coffee
+Decaf Coffee,8.0,2,6,0.7,coffee
+Devils Brew Extreme Caffeine Coffee,12.0,0,1325,110.4,coffee
+Driftaway Coffee,8.0,0,160,20.0,coffee
+Dripdash Kyoto Coffee,6.0,0,225,37.5,coffee
+Dunkin Donuts Shot In The Dark,8.1,80,134,16.5,coffee
+Dunkin' Cold Brew,24.0,5,260,10.8,coffee
+Dunkin' Donuts Brewed Coffee,14.0,5,210,15.0,coffee
+Dunkin' Donuts Dunkaccino,14.0,350,83,5.9,coffee
+Dunkin' Donuts Extra Charged Coffee,14.0,10,252,18.0,coffee
+Dunkin' Donuts Iced Coffee,24.0,20,297,12.4,coffee
+Dunkin' Donuts Iced Latte,24.0,100,166,6.9,coffee
+Dunkin' Donuts Latte,14.0,100,166,11.9,coffee
+Dutch Bros Coffee (Classic),20.0,10,187,9.3,coffee
+Eight O'Clock Coffee,8.0,0,112,14.0,coffee
+Einstein Bros Coffee,16.0,0,206,12.9,coffee
+Espresso Monster,8.4,170,160,19.0,coffee
+Espresso Shot,1.5,0,77,51.3,coffee
+Flat White,12.0,170,130,10.8,coffee
+Folgers Coffee,8.0,0,112,14.0,coffee
+Gloria Jean's Coffee,2.028,0,67,33.0,coffee
+Gold Peak Coffee,8.0,5,126,15.8,coffee
+Gothrider Gasoline Coffee,8.0,0,200,25.0,coffee
+Gourmesso Coffee Pods,1.35,0,65,48.1,coffee
+Greek Coffee (Metrios),2.0,25,50,25.0,coffee
+GymBrew Coffee,12.0,4,333,27.8,coffee
+Hell Energy Coffee,8.46,150,100,11.8,coffee
+High Brew Coffee,8.0,50,140,17.5,coffee
+High Voltage Coffee (AU),12.0,0,1150,95.8,coffee
+Illy Issimo Cafe,6.8,45,155,22.8,coffee
+Indulgio Cappuccino,8.0,79,20,2.5,coffee
+International Delight Iced Coffee,12.0,180,88,7.3,coffee
+K Cup Decaf,8.0,0,4,0.5,coffee
+K-Cup Coffee,8.0,0,100,12.5,coffee
+Killer Coffee (AU),8.46,0,430,50.8,coffee
+La Colombe Cold Brew ,9.0,5,180,20.0,coffee
+La Colombe Draft Latte,9.0,90,120,13.3,coffee
+Latte,16.0,160,154,9.6,coffee
+Long Black,6.0,2,154,25.7,coffee
+Maxwell House Coffee,8.0,0,112,14.0,coffee
+Maxwell House Max Boost Coffee,8.0,0,196,24.5,coffee
+McDonalds (McCafe) Latte,16.0,190,142,8.9,coffee
+McDonalds (McCafe) Mocha,16.0,380,167,10.4,coffee
+McDonalds Coffee,16.0,0,145,9.1,coffee
+McDonalds Iced Coffee,11.5,190,133,11.6,coffee
+Muscle Milk Coffee House,11.0,130,120,10.9,coffee
+Mushroom Coffee,8.0,10,50,6.2,coffee
+Nescafe 3 in 1 Instant Coffee,6.0,74,50,8.3,coffee
+Nescafe Dolce Gusto,8.0,0,106,13.2,coffee
+Nescafe Gold,8.46,0,66,7.8,coffee
+Nescafe Ice Java,8.0,50,100,12.5,coffee
+Nescafe Ricoffy,8.0,10,6,0.8,coffee
+Nespresso Coffee Capsules,1.35,0,60,44.4,coffee
+Nestle Milo,8.0,80,4,0.4,coffee
+Noocaf Smart Coffee,8.0,0,160,20.0,coffee
+Ocean Spray Brew,8.0,30,40,5.0,coffee
+Panera Bread Coffee,16.0,15,189,11.8,coffee
+Peet's Brewed Coffee,16.0,5,267,16.7,coffee
+Peet's Caffe Americano,16.0,10,140,8.8,coffee
+Peet's Caffe Latte,16.0,190,140,8.8,coffee
+Peet's Caffe Mocha,16.0,390,165,10.3,coffee
+Peet's Cappuccino,16.0,140,140,8.8,coffee
+Peet's Coffee Espresso,1.5,0,70,46.7,coffee
+Peet's Decaf Espresso,1.5,0,10,6.7,coffee
+Peet's Iced Coffee,16.0,0,150,9.4,coffee
+Peet's Iced Latte,16.0,120,140,8.8,coffee
+Peet's Iced Mocha,16.0,310,165,10.3,coffee
+Premier Protein Cafe Latte,11.5,160,120,10.4,coffee
+Private Selection Canned Espresso,15.0,230,145,9.7,coffee
+Purity Coffee,8.0,0,163,20.4,coffee
+Revv Coffee Pods,8.0,0,127,15.9,coffee
+Robusta Coffee,8.0,0,265,33.1,coffee
+Seattle's Best Brewed Coffee,12.0,10,260,21.7,coffee
+SlimFast Shake - Cappuccino,11.0,180,100,9.1,coffee
+Starbucks 2X Coffee Pods,8.0,0,260,32.5,coffee
+Starbucks Bottled Cold Brew,11.0,50,180,16.4,coffee
+Starbucks Bottled Iced Coffee,48.0,240,640,13.3,coffee
+Starbucks Canned Nitro Cold Brew,11.0,0,235,21.4,coffee
+Starbucks Caramel Macchiato,16.0,250,150,9.4,coffee
+Starbucks Cold & Crafted,11.0,50,135,12.3,coffee
+Starbucks Cold Brew Coffee,16.0,5,205,12.8,coffee
+Starbucks Cordusio Mocha,8.0,130,155,19.4,coffee
+Starbucks Decaf Coffee,16.0,0,25,1.6,coffee
+Starbucks Doubleshot Energy,15.0,220,135,9.0,coffee
+Starbucks Doubleshot Espresso,6.5,140,120,18.5,coffee
+Starbucks Frappuccino (Bottled),13.7,300,110,8.0,coffee
+Starbucks Grande Caffe Americano,16.0,15,225,14.1,coffee
+Starbucks Grande Caffe Latte,16.0,190,150,9.4,coffee
+Starbucks Grande Caffe Mocha,16.0,370,175,10.9,coffee
+Starbucks Grande Cappuccino,16.0,140,150,9.4,coffee
+Starbucks Grande Coffee,16.0,5,310,19.4,coffee
+Starbucks Iced Americano,16.0,15,225,14.1,coffee
+Starbucks Iced Espresso Classics,12.0,190,125,10.4,coffee
+Starbucks Nitro Cold Brew Coffee,16.0,5,280,17.5,coffee
+Starbucks Pink Drink,16.0,140,45,2.8,coffee
+Starbucks Pumpkin Cream Cold Brew,16.0,250,185,11.6,coffee
+Starbucks Refreshers,16.0,70,45,2.8,coffee
+Starbucks Verismo Coffee Pods,8.0,0,60,7.5,coffee
+Starbucks Via Ready Brew,8.0,0,135,16.9,coffee
+Steep 18 Cold Brew,8.0,0,90,11.2,coffee
+Stipe Miocic Extra Strength Coffee,12.0,0,500,41.7,coffee
+Stok Coffee Shots,0.43,10,40,93.0,coffee
+Stok Cold Brew,13.7,0,145,10.6,coffee
+Stumptown Cold Brew Coffee,10.5,3,279,26.6,coffee
+Stumptown Nitro Cold Brew,11.0,3,330,30.0,coffee
+Sudden Instant Coffee,12.0,0,95,7.9,coffee
+Sunup Pure Green Coffee,11.0,5,200,18.2,coffee
+Taft Coffee (EU),12.0,0,1182,98.5,coffee
+Taster's Choice Instant Coffee,8.0,0,98,12.2,coffee
+Tim Hortons Large Brewed Coffee,20.0,5,270,13.5,coffee
+Tim Hortons Small French Vanilla Coffee,10.0,0,60,6.0,coffee
+TrueStart Performance Coffee,5.1,0,95,18.6,coffee
+Turkish Coffee,2.0,20,50,25.0,coffee
+V Iced Coffee,16.91,345,155,9.2,coffee
+Very Strong Coffee,12.0,0,1350,112.5,coffee
+Voila Instant Coffee,8.0,0,100,12.5,coffee
+Waka Decaf Instant Coffee,8.0,0,4,0.5,coffee
+Waka Indian Instant Coffee,8.0,0,70,8.8,coffee
+Waka Instant Coffee,8.0,0,70,8.8,coffee
+Wawa Coffee,16.0,4,290,18.1,coffee
+Whipped (Dalgona) Coffee,8.0,48,105,13.1,coffee
+Wide Awake Coffee Cold Brew,11.0,5,120,10.9,coffee
+Wide Awake Energy Coffee,15.0,190,180,12.0,coffee
+Wide Awake Iced Coffee Drinks,13.7,290,30,2.2,coffee
+Zola Coconut Water Espresso,17.5,0,125,7.1,coffee

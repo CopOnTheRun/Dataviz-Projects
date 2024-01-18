@@ -1,0 +1,37 @@
+5 Hour Energy	1.93	4	200	103.6
+5 Hour Energy Extra Strength	1.93	0	230	119.2
+7-Eleven Energy Shot	2	0	260	130.0
+Advocare Slam Energy Shot	2	10	120	60.0
+Balance Active Shot	2	80	100	50.0
+Balance Energy Shot	2	77	150	75.0
+Bang Shot	3	0	300	100.0
+Clif Shot Energy Gel	1.2	100	100	83.3
+DynaPep	0.14	0	100	714.3
+E6 Energy Shot	1.93	0	235	121.8
+Equip Pure Energy Shot	1.8	35	100	55.6
+Eternal Energy Extra Strength	1.93	0	280	145.1
+Eternal Energy Shot	1.93	0	230	119.2
+Forto Organic Coffee Shot	2	35	225	112.5
+Kaffn8 Liquified Caffeine	0.25	0	75	300.0
+Kirkland Energy Shot	2	5	180	90.0
+Mana Energy Potion	1.69	25	75	44.4
+Neu Nootropic Shot	2	0	350	175.0
+Nutramint Smart Serum	2	45	200	100.0
+Performance Caffeine 	2	0	180	90.0
+Phoenix Energy Shot	2	0	280	140.0
+Proper Wild Energy Shot	2.5	25	180	72.0
+Red Thunder Energy Shot	2	0	138	69.0
+Red Thunder Extra Strength	2	0	230	115.0
+Redline Max 300	2.5	0	300	120.0
+Redline Xtreme Shot	3	5	300	100.0
+Reed's Ginger Energize Shot	2	24	100	50.0
+Rip It Energy Shot	2	0	120	60.0
+Screamin Energy Max Hit	0.61	40	185	303.3
+Spike Energy Double Shot	4.26	0	350	82.2
+Stacker Extreme Energy Shot	2	0	205	102.5
+TruBrain Extra	1	25	100	100.0
+Tweaker Shot	2	0	275	137.5
+Vital 4U Liquid Energy	0.5	34	155	310.0
+Woke Up Energy Shot	1.93	0	225	116.6
+X-Mode Energy Shot	1	0	150	150.0
+Zombie Blood Energy Potion	3.4	25	80	23.5

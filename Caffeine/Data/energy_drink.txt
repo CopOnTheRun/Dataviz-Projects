@@ -1,0 +1,237 @@
+28 Black Energy Drink	8.46	125	80	9.5
+3D Energy Drink	16	15	200	12.5
+4 Purpose Energy Drink	8.46	70	70	8.3
+4C Energy Drink Mix	16.9	15	170	10.1
+A Shoc	16	10	250	15.6
+ABB Turbo Tea Zero	18	0	120	6.7
+Accelerator	12	10	150	12.5
+Advocare Slim	8	0	120	15.0
+Alani Nu Energy Drink	12	10	200	16.7
+ALL IN Energy Drink	12	25	75	6.2
+Alsa Energy Drink Mix	16	30	100	6.2
+AMIN.O. Energy Drink	12	5	100	8.3
+Amino Force Energy Drink	22	0	200	9.1
+Arbonne Energy Fizz Stck	8	15	55	6.9
+Arizona Arnold Palmer Half and Half	16.9	180	15	0.9
+Arizona Energy Drink Rx	11.5	130	127	11.0
+AXIO Energy Drink Mix	12	0	100	8.3
+Bai Antioxidant Infusion	18	10	55	3.1
+Bai Boost	11.47	10	110	9.6
+Bang Energy	16	0	300	18.8
+Bang Keto Coffee	16	130	300	18.8
+Bang Natural	16	0	250	15.6
+Bang Sweet Tea	16	0	300	18.8
+BE Beyond Energy Drink	12	15	160	13.3
+Beaver Buzz Energy Drink	16	240	178	11.1
+BEEBAD Energy Drink	8.46	110	80	9.5
+Berocca	8	5	90	11.2
+Berzerk Energy Drink Mix	16	5	200	12.5
+Best Choice Strawberry Energy Drink Mix	8	5	120	15.0
+Bing Energy Drink	12	30	120	10.0
+Black Bruin Energy Drink	8.46	122	38	4.4
+Blu Frog Energy Drink	8.46	90	80	9.5
+Blue Bolt (UK)	8.46	112	80	9.5
+Blue Charge (UK)	8.46	49	80	9.5
+Blue Spark (UK)	8.46	56	75	8.9
+Bodyarmour Edge	20	180	100	5.0
+Bomb Energy Drink	8.46	0	80	9.5
+Bomba (EU)	8.4	123	80	9.5
+Boost Energy (UK)	8.46	58	80	9.5
+BreinFuel 	12	60	360	30.0
+Bucked Up	16	0	300	18.8
+Burn Energy Drink	12	163	112	9.3
+C4 On The Go	12	0	200	16.7
+C4 Performance Energy	16	0	200	12.5
+C4 Smart Energy Drink	16	0	200	12.5
+C4 Ultimate Energy Drink	16	0	300	18.8
+Carabao Energy Drink (UK)	11.16	63	106	9.5
+Celsius Energy Drink	12	10	200	16.7
+Celsius Stevia	12	15	200	16.7
+Cintron Energy Drink	8.4	60	85	10.1
+Club Mate (EU)	16.91	160	100	5.9
+Coca-Cola Cherry Vanilla	12	140	34	2.8
+Coca-Cola Energy	12	140	114	9.5
+Cocaine Energy Drink	12	90	280	23.3
+Cran Energy Juice	10	40	70	7.0
+Crave Energy Drink (UK)	8.43	10	80	9.5
+Crunk Energy Drink	16	200	192	12.0
+Crystal Light Energy Mix	16	10	60	3.8
+Dark Dog Organic Energy	12	110	114	9.5
+Demon Energy Drink	16.91	253	160	9.5
+Duff Energy Drink	12	170	120	10.0
+Dutch Bros Blue Rebel Energy Drink	8.4	160	80	9.5
+EBOOST Energy Drink Mix	8	5	110	13.8
+EBOOST Super Fuel	12	20	110	9.2
+EBOOST Workout Crusher Mix	8	40	175	21.9
+Electric Monkey Wild Energy Drink	16	220	160	10.0
+EnerBee Energy Drink	12	80	100	8.3
+Euro Shopper Energy Drink (EU)	8.46	115	80	9.5
+Fakeer Energy Drink (EU)	12.52	148	118	9.4
+Freeway Cola	11.16	135	32	2.9
+Full Throttle Energy Drink	16	220	160	10.0
+Gatorade Bolt 24 Energize	16.9	40	75	4.4
+Gatorade Fast Twitch	12	5	200	16.7
+GFuel Cans	16	0	300	18.8
+GFuel Energy Drink Mix	16	15	140	8.8
+Ghost Energy Drink	16	5	200	12.5
+Go Fast Energy Drink	16	200	160	10.0
+Go Fast High Octane Energy Drink	16	0	300	18.8
+Go Girl Energy Drink	12	25	100	8.3
+Goat Fuel	12	15	200	16.7
+Great Value Energy Drink Enhancers	8	0	50	6.2
+Great Value Energy Drink Mix	16	10	120	7.5
+Gridlock Energy Drink	16	200	140	8.8
+GURU Energy Drink	12	115	140	11.7
+Hell Energy Drink (EU)	8.46	115	80	9.5
+Hi Ball Energy Drink	16	0	160	10.0
+Hyde Xtreme	12	0	400	33.3
+Hype Energy Drink (EU)	8.46	108	80	9.5
+Irn Bru (UK)	11.16	65	30	2.7
+Java Kick Coffee Cola	12	130	100	8.3
+Java Monster	15	220	200	13.3
+Java Monster 300	15	200	300	20.0
+Joker Mad Energy	16	260	160	10.0
+Juice Monster	16	160	160	10.0
+Juvee	12	5	128	10.7
+Kill Cliff Energy X Recover	12	20	25	2.1
+Kill Cliff Ignite	12	25	150	12.5
+Kin Spritz	8	25	50	6.2
+Kona Gold Energy Drink	12	150	115	9.6
+LevlUp Gaming Booster	16.91	8	250	14.8
+Liquid Help Energy Drink	16	0	300	18.8
+Liquid Ice Energy Drink	8.3	120	80	9.6
+Live+ Energy Drink	16.9	227	150	8.9
+Lucozade	12.85	133	46	3.6
+LYFT Energy Mix	8	4	125	15.6
+M-150 Energy Drink	8.46	155	80	9.5
+Mamma Chia Energy	10	110	90	9.0
+Marquis Energy Drink	12	0	100	8.3
+MATI Energy Drink	12	90	110	9.2
+Mega Monster Energy Drink	24	320	240	10.0
+Meltdown Ketone Drink	12	18	225	18.8
+Monster Assault	16	210	160	10.0
+Monster Dragon Tea	23	100	60	2.6
+Monster Energy	16	210	160	10.0
+Monster Hydro	25.4	150	188	7.4
+Monster Import	18.6	190	179	9.6
+Monster Lo-Carb	16	30	140	8.8
+Monster Mango Loco	16	240	152	9.5
+Monster Mule	16	210	160	10.0
+Monster Nitro	16	220	160	10.0
+Monster Pipeline Punch	16	190	160	10.0
+Monster Rehab	15.5	25	160	10.3
+Monster Reserve	16	120	160	10.0
+Monster Ripper Energy Juice (UK)	16.91	185	160	9.5
+Monster The Doctor VR46 (UK)	16.91	219	160	9.5
+Monster Ultra	16	10	150	9.4
+Monster Zero Sugar	16	10	160	10.0
+Moose Juice Energy Drink	16.94	0	200	11.8
+Mother Energy Drink	16.91	228	160	9.5
+Mountain Dew Amp	16	220	142	8.9
+Mountain Dew Energy	16	25	180	11.2
+Mountain Dew Game Fuel	16	90	90	5.6
+Mountain Dew Spark	12	170	46	3.8
+Muscle Monster	15	180	157	10.5
+Nerd Focus	12	170	128	10.7
+Neuro Sonic	14.5	35	100	6.9
+NOCCO Energy Drink (EU)	11.17	0	180	16.1
+NOS Energy Drink	16	200	160	10.0
+Nuun Sport	16	15	40	2.5
+OCA Energy Drink	12	60	120	10.0
+Octane Energy Drink Mix	12	25	225	18.8
+Oikos Pro Fuel	10	130	100	10.0
+OK Energy Drink	8.45	113	80	9.5
+Oli Pop Vintage Cola	12	35	50	4.2
+PerformElite Pre-Workout 	8	0	225	28.1
+Perk Energy Beverage	8	90	100	12.5
+Power Horse Energy Drink (EU)	8.45	125	80	9.5
+Prime Energy Drink	12	10	200	16.7
+Propel Zero Powder	16	0	0	0.0
+Protein2O + Energy	16.91	70	125	7.4
+Pure Boost Energy Drink Mix	16	25	100	6.2
+Pure Cofain 699 (EU)	8.46	148	175	20.7
+Pure Kick Energy Drink Mix	16.9	10	80	4.7
+Quake Energy Berry Blast Slurpee	16	5	92	5.8
+Quake Energy Drink	16	0	250	15.6
+Rambler Energy Drink	16	60	120	7.5
+Raze Energy Drink	16	0	300	18.8
+Red Bull	8.46	117	80	9.5
+Red Bull Editions	8.46	113	80	9.5
+Red Bull Sugarfree	8.46	10	80	9.5
+Red Bull Zero	8.46	0	80	9.5
+Red Devil Energy Drink	16	0	160	10.0
+Red Eye Energy Drink	11.1	149	106	9.5
+Red Power Elixir	12	160	160	13.3
+Red Thunder Energy Drink	12	156	120	10.0
+Redline Princess	8	0	300	37.5
+Redline Xtreme Energy Drink	8	0	316	39.5
+Reign Storm	12	10	200	16.7
+Reign Total Body Fuel	16	10	300	18.8
+Rip It Energy Drink	16	260	160	10.0
+Roaring Lion Energy Drink	8	100	77	9.6
+Rockstar Boom	16	280	160	10.0
+Rockstar Energy Drink (Original)	16	250	160	10.0
+Rockstar Halo Infinite	16	250	240	15.0
+Rockstar Juiced	16	30	170	10.6
+Rockstar Organic Energy Drink	15	180	160	10.7
+Rockstar Punched	16	260	240	15.0
+Rockstar Pure Zero	16	20	240	15.0
+Rockstar Recovery	16	25	160	10.0
+Rockstar Sugar Free	16	25	160	10.0
+Rockstar Thermo 	16	0	300	18.8
+Rockstar Unplugged	8	0	80	10.0
+Rockstar XDurance	16	10	300	18.8
+Rockstar Zero Carb	16	25	240	15.0
+Rogue Energy Drink	16	5	200	12.5
+Rogue Energy Drink Mix	16	5	175	10.9
+RootJack Caffeinated Pirate Root Beer	12	200	120	10.0
+Rowdy Energy Drink	16	5	160	10.0
+Runa	12	0	150	12.5
+Rush! Energy Drink	8.3	120	80	9.6
+Ryse Fuel	16	0	200	12.5
+Sambazon Amazon Energy Drink	12	120	120	10.0
+Scheckters Energy Drink	8.46	78	80	9.5
+Slammers Energy Drink (EU)	8.46	122	80	9.5
+Sneak Energy Drink Mix	16	12	150	9.4
+SoBe Energy Citrus	20	250	81	4.0
+Solimo Energy Drink	16	10	152	9.5
+Source 1899 (UK)	8.46	58	80	9.5
+Soylent Stacked	11.16	180	100	9.0
+Spark Energy Drink Mix	8	15	120	15.0
+Speed Energy Fuel	16	240	186	11.6
+Spider Energy Drink	16	120	240	15.0
+Spike Hardcore Energy	16	0	350	21.9
+Spike Shooter	12	10	300	25.0
+Starbucks Triple Shot Energy	15	210	225	15.0
+Steaz Energy	12	140	100	8.3
+Strike Force Energy Drink Mix	16.91	0	160	9.5
+T-Virus Antidote	12	160	100	8.3
+Taurus Energy Drink	8.46	180	50	5.9
+TENZING Natural Energy	8.46	50	80	9.5
+Tiger Energy Drink	8.46	0	80	9.5
+Triton Energy Drink	16	15	200	12.5
+Tru Energy Wakeup	12	10	100	8.3
+True Lemon Energy Mix	16	0	120	7.5
+Tweaker Energy Drink	8.46	110	80	9.5
+Ugly Energy Water	16	0	160	10.0
+UPTIME Energy Drink	12	150	142	11.8
+USANA Rev3 Energy Drink	12	105	120	10.0
+V Energy Drink	8.45	116	78	9.2
+V8 +Energy Drink	8	140	80	10.0
+Venom Death Adder	16	160	160	10.0
+Virtue Clean Energy Beverage	8.46	8	80	9.5
+Viso Energy Drink	17	140	300	17.6
+Vuum	12	50	135	11.2
+Wild Tiger Energy Drink	8.36	125	75	9.0
+Wildcat Energy Drink (UK)	8.46	115	80	9.5
+Wired X 3000 Energy Drink	16	220	185	11.6
+Wired X Berry Rush	16	220	95	5.9
+Wired X344 Energy Drink	16	220	344	21.5
+X Ray Energy Drink	8.46	125	79	9.3
+XL Energy Drink (EU)	8.45	118	80	9.5
+XS Energy Drink	8.4	10	80	9.5
+Xyience Energy Drink	16	15	160	10.0
+Zest Sparkling Tea	12	60	135	11.2
+Zevia Energy Drink	12	0	120	10.0
+ZipFizz Energy Drink Mix	16	20	100	6.2
+Zoa Energy Drink	16	100	160	10.0

@@ -68,9 +68,9 @@ def process_json(in_file, out_file, chunk_size = 10**5,):
         print(f"Finished processing chunk {count} in {delta} seconds.", flush=True)
 
 def main():
-    in_file = "Data/buildapc_submissinos.json"
+    in_file = "Data/buildapc_submissions.json"
     out_file = "Data/part_table.csv"
-    process_json(in_file = in_file, out_file = out_file)
+    process_json(in_file = in_file, out_file = out_file, chunk_size=10**6)
 
 if __name__ == "__main__":
     main()

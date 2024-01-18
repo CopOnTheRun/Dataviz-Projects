@@ -1,0 +1,67 @@
+Arizona Iced Tea	16	190	30	1.9
+Big Train Spiced Chai	8	210	65	8.1
+Bigelow Tea	8	0	45	5.6
+Biggby Iced Tea	16	0	38	2.4
+Brew Dr Kombucha Uplift	14	80	130	9.3
+Brisk Iced Tea	12	70	11	0.9
+Brown Rice Tea	8	0	4	0.5
+Chai Tea	8	0	50	6.2
+Chick-fil-A Iced Tea	16	120	62	3.9
+Cold Brew Tea	8	0	70	8.8
+Crystal Light Iced Tea	8	5	10	1.2
+Dunkin' Donuts Iced Tea	24	230	63	2.6
+Fast Lane Black Tea	8	0	110	13.8
+Fuze Iced Tea	24	160	24	1.0
+Gold Peak Tea	18.5	0	48	2.6
+Guayaki Canned Yerba Mate	15.5	120	150	9.7
+Guayaki Yerba Mate Bottled Tea	16	80	140	8.8
+Guayusa Tea	8	0	41	5.1
+HICAF Tea	8	0	110	13.8
+Honest Iced Tea	16.9	70	63	3.7
+Inko's White Tea Energy	15.5	100	165	10.6
+K Cup Tea	8	0	41	5.1
+KOE Kombucha	12	35	15	1.2
+Kombucha Tea	8	30	24	3.0
+Lipton Iced Tea	20	110	25	1.2
+Lipton Natural Energy Tea	8	0	75	9.4
+Lipton Tea	8	0	55	6.9
+Liquid Death Iced Tea	19.2	30	30	1.6
+Master Brew Kombucha	15.2	60	76	5.0
+Matcha Tea	8	0	64	8.0
+McDonalds Sweet Tea	32	160	100	3.1
+Morning Thunder Tea	8	0	45	5.6
+Nestea Iced Tea	16.9	160	23	1.4
+Oi Ocha Green Tea	16.9	5	60	3.6
+Oregon Chai Tea	6	130	45	7.5
+Pacific Chai	6	90	29	4.8
+Peace Tea	23	150	23	1.0
+PG Tips Black Tea	6.78	0	50	7.4
+Pure Leaf Iced Tea	18.5	160	69	3.7
+Sencha Green Tea Shot	6.4	0	40	6.2
+Snapple Tea	16	150	37	2.3
+SoBe Green Tea	20	200	7	0.3
+Southern Sweet Tea	16	128	41	2.6
+Taiwanese Milk Tea	16	299	151	9.4
+Tazo Chai	8	0	47	5.9
+Tea (Black)	8	0	42	5.2
+Tea (Decaf)	8	0	4	0.5
+Tea (Green)	8	0	18	2.2
+Tea (Herbal)	8	0	0	0.0
+Tea (Iced)	8	0	47	5.9
+Tea (Instant)	8	0	40	5.0
+Tea (Jasmine)	8	0	25	3.1
+Tea (Oolong)	8	0	37	4.6
+Tea (White)	8	0	28	3.5
+Teas' Tea Oolong	16.9	0	70	4.1
+Teavana Tea	8	0	41	5.1
+Tejava Iced Tea	12	0	50	4.2
+Turkey Hill Iced Tea	12	120	64	5.3
+Twig Tea (Kukicha)	8	0	25	3.1
+Waka Instant Tea	8	0	30	3.8
+Wendy's Iced Tea	16	5	32	2.0
+Xing Craft Brew	16	5	120	7.5
+Xingtea Iced Green Tea	23.5	50	110	4.7
+Yellow Tea	8	0	63	7.9
+Yerba Mate Tea	8	0	40	5.0
+YMateina Yerba Mate	8	0	80	10.0
+Zest Highly Caffeinated Tea	8	0	150	18.8

@@ -114,7 +114,8 @@ def process_frame(df):
 
     start = dt.now()
     #adds a complete build row
-    df = df.groupby('permalink').apply(part_min)
+    #breakpoint()
+    df = df.groupby('permalink', group_keys=False).apply(part_min)
     print(f"complete build: {dt.now()-start}")
 
     start = dt.now()
@@ -122,6 +123,40 @@ def process_frame(df):
     df = inflation_merge(df,inf)
     print(f"inflation: {dt.now()-start}")
 
+    return df
+
+def process_parts(df, part):
+    match part:
+        case "Video Card":
+            gpus = df.Type == part
+            regex = r"((?:[GR]TX?|Quadro|Radeon|Arc).*?[MG]B)"
+            df.loc[gpus,"Item"] = df.loc[gpus,"Item"].str.extract(regex, expand=False)
+            df.loc[gpus,"Item"] = df.loc[gpus,"Item"].str.replace(" GB","GB")
+        case "CPU":
+            cpus = df.Type == part
+            regex = r"(?:Intel|AMD)\s+(?:- )?(.*)\s+Processor"
+            df.loc[cpus,"Item"] = df.loc[cpus,"Item"].str.extract(regex,expand=False)
+        case "Case": 
+            cases = df.Type == part
+            regex = r"(.*?)\s*(?:\(.*\))?(?:\s?[IA]TX|\sCase)"
+            case_items = df.loc[cases,"Item"]
+            case_items = case_items.str.extract(regex,expand=False)
+            case_items = case_items.str.replace(" - "," ")
+            case_items = case_items.str.replace("Cooler Master","C.M.")
+            case_items = case_items.str.replace("Fractal Design","F.D.")
+            case_items = case_items.str.replace("Tempered Glass","TG", case=False)
+            df.loc[cases,"Item"] = case_items
+        case "Storage":
+            storage = df.Type == part
+            storage_items = df.loc[storage, "Item"]
+            regex = r"(.*[TG]B).*?((?:NVME|Internal|Solid).*(?:Drive|Disk))"
+            strings = storage_items.extract(regex)
+            storage_items = strings[0] + " " + strings[1]
+            storage_items = storage_items.str.replace(" - ", " ")
+            storage_items = storage_items.str.replace("-Series", "")
+            storage_items = storage_items.str.replace(" GB", "GB")
+            storage_items = storage_items.str.replace(" TB", "TB")
+            df.loc[storage, "Item"] = storage_items
     return df
 
 def main():

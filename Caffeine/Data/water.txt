@@ -1,0 +1,27 @@
+3 Water 	16.9	0	50	3.0
+AHA Sparkling Water	12	0	30	2.5
+Arti Sparkling Water	12	0	120	10.0
+Bubbl'r Sparkling Water	12	5	69	5.8
+Bubly Bounce Sparkling Water	12	0	35	2.9
+Bubly Sparkling Water	12	0	0	0.0
+Caribou BOUsted Sparkling Water	11.5	0	75	6.5
+GURU Sparkling Energy Water	12	0	100	8.3
+Heroec Energy Water	16.9	0	60	3.6
+Hint Caffeine Kick Water	16	0	60	3.8
+La Croix Sparkling Water	12	0	0	0.0
+Limitless Sparkling Water	12	0	35	2.9
+MiO Energy Water Enhancer	8	0	60	7.5
+Monster Tour Water	16	0	0	0.0
+Pep Talk Sparkling Water	12	0	55	4.6
+Perrier Energize	8.46	35	99	11.7
+Perrier Sparkling Water	11.15	0	0	0.0
+Phocus Sparkling Water	11.5	0	75	6.5
+Poland Spring Sparkling Energy Water	11.5	35	75	6.5
+Polar Frost Plus Energy	17	10	67	3.9
+Polar Seltzer Water	12	0	0	0.0
+Sparkling Ice +Caffeine	16	5	70	4.4
+Tonic Water	10	110	0	0.0
+VitaminWater Energy 	20	100	50	2.5
+VitaRain Zero Enhanced Water	20	0	42	2.1
+Water Joe	20	0	70	3.5
+Yerbae Sparkling Water	12	0	100	8.3

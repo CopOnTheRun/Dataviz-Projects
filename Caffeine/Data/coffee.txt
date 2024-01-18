@@ -1,0 +1,173 @@
+7 Eleven Brewed Coffee	16	5	280	17.5
+Alpine Start Instant Coffee	8	0	120	15.0
+Americano Coffee	12	5	154	12.8
+Arby's Jamocha Shake	16	830	12	0.7
+Barista Bros Iced Coffee	16.91	204	140	8.3
+Baskin Robbins Cappuccino Blast	24	470	234	9.8
+Big Train Java Chip Ice Coffee	12	410	49	4.1
+Biggby Brewed Coffee	16	0	200	12.5
+Biggby Creamy Lattes	16	387	100	6.2
+Biggby Espresso	2	0	100	50.0
+Biggby Iced Coffee	16	0	155	9.7
+Biohazard Coffee	12	3	928	77.3
+Bizzy Cold Brew	2.67	0	125	46.8
+Black Ink Coffee	12	0	144	12.0
+Black Insomnia Coffee	12	0	1105	92.1
+Black Label Brewed Coffee	12	0	1555	129.6
+Bottled Iced Coffee Dunkin Donuts	13.7	260	171	12.5
+Bulletproof Coffee	8	0	145	18.1
+Cafe Bustelo	12	0	150	12.5
+Cafe Con Leche	6	56	154	25.7
+Caffe Mocha	12	239	152	12.7
+Caffe Nero Coffee	12	5	160	13.3
+Califia Farms Cold Brew Coffee	8	10	180	22.5
+Cannonball Coffee Maximum Charge (UK)	12	0	1101	91.8
+Cappuccino	12	97	154	12.8
+Caribou Brewed Coffee	16	5	305	19.1
+Caribou Canned Cold Brew	11.5	10	177	15.4
+CBD Coffee	8	0	100	12.5
+Chameleon Cold Brew Coffee	8	15	260	32.5
+Chameleon Cold Brew RTD	10	10	230	23.0
+Chameleon Cold Brew With Milk	11	100	100	9.1
+Chick-fil-A Brewed Coffee	10	0	136	13.6
+Chick-fil-A Frosted Coffee	14	240	130	9.3
+Chick-fil-A Iced Coffee	14	190	80	5.7
+Choffy (roasted cacao)	6	0	23	3.8
+Coffee	8	0	163	20.4
+Coffee (Decaf, Instant)	8	6	2	0.3
+Coffee (Instant)	8	0	57	7.1
+Coffee Bean & Tea leaf Coffee	16	5	333	20.8
+Coffee Friend Brewed Coffee	8.46	0	145	17.1
+Coffee Leaf Tea	8	0	20	2.5
+COGO Caffeinated Hot Chocolate	6	110	98	16.3
+CoolBrew Coffee	10	0	60	6.0
+Costa Coffee	10.14	222	241	23.8
+Crio Bru Brewed Cacao	8	20	10	1.2
+Dare Iced Coffee	16.91	429	160	9.5
+Death Wish Canned Cold Brew	8	15	300	37.5
+Death Wish Coffee	12	0	728	60.7
+Death Wish Latte	8	170	300	37.5
+Decaf Coffee	8	2	6	0.7
+Devils Brew Extreme Caffeine Coffee	12	0	1325	110.4
+Driftaway Coffee	8	0	160	20.0
+Dripdash Kyoto Coffee	6	0	225	37.5
+Dunkin Donuts Shot In The Dark	8.1	80	134	16.5
+Dunkin' Cold Brew	24	5	260	10.8
+Dunkin' Donuts Brewed Coffee	14	5	210	15.0
+Dunkin' Donuts Dunkaccino	14	350	83	5.9
+Dunkin' Donuts Extra Charged Coffee	14	10	252	18.0
+Dunkin' Donuts Iced Coffee	24	20	297	12.4
+Dunkin' Donuts Iced Latte	24	100	166	6.9
+Dunkin' Donuts Latte	14	100	166	11.9
+Dutch Bros Coffee (Classic)	20	10	187	9.3
+Eight O'Clock Coffee	8	0	112	14.0
+Einstein Bros Coffee	16	0	206	12.9
+Espresso Monster	8.4	170	160	19.0
+Espresso Shot	1.5	0	77	51.3
+Flat White	12	170	130	10.8
+Folgers Coffee	8	0	112	14.0
+Gloria Jean's Coffee	2.028	0	67	33.0
+Gold Peak Coffee	8	5	126	15.8
+Gothrider Gasoline Coffee	8	0	200	25.0
+Gourmesso Coffee Pods	1.35	0	65	48.1
+Greek Coffee (Metrios)	2	25	50	25.0
+GymBrew Coffee	12	4	333	27.8
+Hell Energy Coffee	8.46	150	100	11.8
+High Brew Coffee	8	50	140	17.5
+High Voltage Coffee (AU)	12	0	1150	95.8
+Illy Issimo Cafe	6.8	45	155	22.8
+Indulgio Cappuccino	8	79	20	2.5
+International Delight Iced Coffee	12	180	88	7.3
+K Cup Decaf	8	0	4	0.5
+K-Cup Coffee	8	0	100	12.5
+Killer Coffee (AU)	8.46	0	430	50.8
+La Colombe Cold Brew 	9	5	180	20.0
+La Colombe Draft Latte	9	90	120	13.3
+Latte	16	160	154	9.6
+Long Black	6	2	154	25.7
+Maxwell House Coffee	8	0	112	14.0
+Maxwell House Max Boost Coffee	8	0	196	24.5
+McDonalds (McCafe) Latte	16	190	142	8.9
+McDonalds (McCafe) Mocha	16	380	167	10.4
+McDonalds Coffee	16	0	145	9.1
+McDonalds Iced Coffee	11.5	190	133	11.6
+Muscle Milk Coffee House	11	130	120	10.9
+Mushroom Coffee	8	10	50	6.2
+Nescafe 3 in 1 Instant Coffee	6	74	50	8.3
+Nescafe Dolce Gusto	8	0	106	13.2
+Nescafe Gold	8.46	0	66	7.8
+Nescafe Ice Java	8	50	100	12.5
+Nescafe Ricoffy	8	10	6	0.8
+Nespresso Coffee Capsules	1.35	0	60	44.4
+Nestle Milo	8	80	4	0.4
+Noocaf Smart Coffee	8	0	160	20.0
+Ocean Spray Brew	8	30	40	5.0
+Panera Bread Coffee	16	15	189	11.8
+Peet's Brewed Coffee	16	5	267	16.7
+Peet's Caffe Americano	16	10	140	8.8
+Peet's Caffe Latte	16	190	140	8.8
+Peet's Caffe Mocha	16	390	165	10.3
+Peet's Cappuccino	16	140	140	8.8
+Peet's Coffee Espresso	1.5	0	70	46.7
+Peet's Decaf Espresso	1.5	0	10	6.7
+Peet's Iced Coffee	16	0	150	9.4
+Peet's Iced Latte	16	120	140	8.8
+Peet's Iced Mocha	16	310	165	10.3
+Premier Protein Cafe Latte	11.5	160	120	10.4
+Private Selection Canned Espresso	15	230	145	9.7
+Purity Coffee	8	0	163	20.4
+Revv Coffee Pods	8	0	127	15.9
+Robusta Coffee	8	0	265	33.1
+Seattle's Best Brewed Coffee	12	10	260	21.7
+SlimFast Shake - Cappuccino	11	180	100	9.1
+Starbucks 2X Coffee Pods	8	0	260	32.5
+Starbucks Bottled Cold Brew	11	50	180	16.4
+Starbucks Bottled Iced Coffee	48	240	640	13.3
+Starbucks Canned Nitro Cold Brew	11	0	235	21.4
+Starbucks Caramel Macchiato	16	250	150	9.4
+Starbucks Cold & Crafted	11	50	135	12.3
+Starbucks Cold Brew Coffee	16	5	205	12.8
+Starbucks Cordusio Mocha	8	130	155	19.4
+Starbucks Decaf Coffee	16	0	25	1.6
+Starbucks Doubleshot Energy	15	220	135	9.0
+Starbucks Doubleshot Espresso	6.5	140	120	18.5
+Starbucks Frappuccino (Bottled)	13.7	300	110	8.0
+Starbucks Grande Caffe Americano	16	15	225	14.1
+Starbucks Grande Caffe Latte	16	190	150	9.4
+Starbucks Grande Caffe Mocha	16	370	175	10.9
+Starbucks Grande Cappuccino	16	140	150	9.4
+Starbucks Grande Coffee	16	5	310	19.4
+Starbucks Iced Americano	16	15	225	14.1
+Starbucks Iced Espresso Classics	12	190	125	10.4
+Starbucks Nitro Cold Brew Coffee	16	5	280	17.5
+Starbucks Pink Drink	16	140	45	2.8
+Starbucks Pumpkin Cream Cold Brew	16	250	185	11.6
+Starbucks Refreshers	16	70	45	2.8
+Starbucks Verismo Coffee Pods	8	0	60	7.5
+Starbucks Via Ready Brew	8	0	135	16.9
+Steep 18 Cold Brew	8	0	90	11.2
+Stipe Miocic Extra Strength Coffee	12	0	500	41.7
+Stok Coffee Shots	0.43	10	40	93.0
+Stok Cold Brew	13.7	0	145	10.6
+Stumptown Cold Brew Coffee	10.5	3	279	26.6
+Stumptown Nitro Cold Brew	11	3	330	30.0
+Sudden Instant Coffee	12	0	95	7.9
+Sunup Pure Green Coffee	11	5	200	18.2
+Taft Coffee (EU)	12	0	1182	98.5
+Taster's Choice Instant Coffee	8	0	98	12.2
+Tim Hortons Large Brewed Coffee	20	5	270	13.5
+Tim Hortons Small French Vanilla Coffee	10	0	60	6.0
+TrueStart Performance Coffee	5.1	0	95	18.6
+Turkish Coffee	2	20	50	25.0
+V Iced Coffee	16.91	345	155	9.2
+Very Strong Coffee	12	0	1350	112.5
+Voila Instant Coffee	8	0	100	12.5
+Waka Decaf Instant Coffee	8	0	4	0.5
+Waka Indian Instant Coffee	8	0	70	8.8
+Waka Instant Coffee	8	0	70	8.8
+Wawa Coffee	16	4	290	18.1
+Whipped (Dalgona) Coffee	8	48	105	13.1
+Wide Awake Coffee Cold Brew	11	5	120	10.9
+Wide Awake Energy Coffee	15	190	180	12.0
+Wide Awake Iced Coffee Drinks	13.7	290	30	2.2
+Zola Coconut Water Espresso	17.5	0	125	7.1

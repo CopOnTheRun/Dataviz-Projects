@@ -1,0 +1,642 @@
+Drink,fl oz,Calories,Caffeine (mg),mg/ floz,Type,Release Year,Source
+7-Up,12.0,140.0,0.0,0.0,Soda,,
+A&W Cream Soda,12.0,170.0,0.0,0.0,Soda,,
+A&W Root Beer,12.0,170.0,0.0,0.0,Soda,,
+A&W Zero Sugar Cream Soda,12.0,0.0,0.0,0.0,Soda,,
+Afri Cola,11.16,139.0,83.0,7.4,Soda,,
+Ale 8 1,12.0,120.0,37.0,3.1,Soda,,
+Barqs Red Creme Soda,12.0,170.0,0.0,0.0,Soda,,
+Barqs Root Beer,12.0,160.0,22.0,1.8,Soda,,
+Bawls,16.0,190.0,102.0,6.4,Soda,,
+Big Red Soda,12.0,150.0,34.0,2.8,Soda,,
+Boost Nutritional Drink,8.0,240.0,5.0,0.6,Soda,,
+Canada Dry Green Tea Ginger Ale,12.0,140.0,9.0,0.8,Soda,,
+Cheerwine,12.0,150.0,47.0,3.9,Soda,,
+Coca-Cola Caffeine Free,12.0,140.0,0.0,0.0,Soda,,
+Coca-Cola Cherry,12.0,150.0,34.0,2.8,Soda,,
+Coca-Cola Cherry Zero Sugar,12.0,0.0,34.0,2.8,Soda,,
+Coca-Cola Classic,12.0,140.0,34.0,2.8,Soda,,
+Coca-Cola Orange Vanilla,12.0,140.0,34.0,2.8,Soda,,
+Coca-Cola Vanilla,12.0,150.0,34.0,2.8,Soda,,
+Coca-Cola Vanilla Zero Sugar,12.0,0.0,34.0,2.8,Soda,,
+Coca-Cola With Coffee,12.0,70.0,69.0,5.8,Soda,,
+Coca-Cola Zero Sugar,12.0,0.0,34.0,2.8,Soda,,
+Diet Barqs Root Beer,12.0,0.0,0.0,0.0,Soda,,
+Diet Cheerwine,12.0,0.0,47.0,3.9,Soda,,
+Diet Coke,12.0,0.0,46.0,3.8,Soda,,
+Diet Coke with Splenda,12.0,0.0,46.0,3.8,Soda,,
+Diet Dr Pepper,12.0,0.0,41.0,3.4,Soda,,
+Diet Mountain Dew,12.0,0.0,54.0,4.5,Soda,,
+Diet Pepsi,12.0,0.0,35.0,2.9,Soda,,
+Diet RC Cola,12.0,0.0,48.0,4.0,Soda,,
+Diet Wild Cherry Pepsi,12.0,0.0,38.0,3.2,Soda,,
+doc Soda,12.0,150.0,60.0,5.0,Soda,,
+Double Cola,12.0,160.0,36.0,3.0,Soda,,
+Dr Pepper,12.0,150.0,42.0,3.5,Soda,,
+Dr Pepper 10,12.0,10.0,51.0,4.2,Soda,,
+Dr Shasta Soda,12.0,0.0,29.0,2.4,Soda,,
+Fanta,12.0,160.0,0.0,0.0,Soda,,
+Faygo Cola,12.0,165.0,43.0,3.6,Soda,,
+Faygo Moon Mist,12.0,150.0,20.0,1.6,Soda,,
+Fresca,12.0,0.0,0.0,0.0,Soda,,
+Fritz Kola (EU),11.16,135.0,83.0,7.4,Soda,,
+Ginger Ale,12.0,140.0,0.0,0.0,Soda,,
+Green Cola,12.0,0.0,37.0,3.1,Soda,,
+IBC Root Beer,12.0,160.0,0.0,0.0,Soda,,
+Inca Kola,12.0,140.0,38.0,3.2,Soda,,
+Kickapoo Soda: Joy Juice & Fruit Shine,12.0,190.0,40.0,3.3,Soda,,
+Mello Yello,12.0,170.0,51.0,4.2,Soda,,
+Mountain Dew,12.0,170.0,54.0,4.5,Soda,,
+Mountain Dew Baja Blast,12.0,170.0,54.0,4.5,Soda,,
+Mountain Dew Code Red,12.0,170.0,54.0,4.5,Soda,,
+Mountain Dew Kickstart,16.0,80.0,90.0,5.6,Soda,,
+Mountain Dew Live Wire,12.0,180.0,54.0,4.5,Soda,,
+Mountain Dew Major Melon,12.0,160.0,55.0,4.6,Soda,,
+Mountain Dew Voltage,12.0,170.0,55.0,4.6,Soda,,
+Mountain Dew Zero Sugar,12.0,0.0,68.0,5.7,Soda,,
+Moxie Soda,12.0,140.0,24.0,2.0,Soda,,
+Mucho Mango Energy Drink,8.0,100.0,0.0,0.0,Soda,,
+Mug Root Beer,12.0,160.0,0.0,0.0,Soda,,
+Orange Crush,12.0,160.0,0.0,0.0,Soda,,
+Panera Charged Lemonade,30.0,280.0,390.0,13.0,Soda,,
+PC Cola,12.0,150.0,12.0,1.0,Soda,,
+PC Cola Diet,12.0,0.0,13.0,1.1,Soda,,
+Pepsi,12.0,150.0,38.0,3.2,Soda,,
+Pepsi Caffeine Free,12.0,150.0,0.0,0.0,Soda,,
+Pepsi Made With Sugar,12.0,150.0,38.0,3.2,Soda,,
+Pepsi Max (UK),11.16,0.0,43.0,3.8,Soda,,
+Pepsi Zero Sugar,12.0,0.0,38.0,3.2,Soda,,
+Pibb Xtra,12.0,140.0,40.0,3.3,Soda,,
+Premium Cola (EU),11.16,132.0,83.0,7.4,Soda,,
+RC (Royal Crown) Cola,12.0,160.0,43.0,3.6,Soda,,
+Red Bull Simply Cola,8.46,0.0,32.0,3.8,Soda,,
+Ritz Cola,12.0,144.0,10.0,0.9,Soda,,
+Ruby Red Squirt,12.0,170.0,39.0,3.2,Soda,,
+Sarsaparilla,12.0,170.0,0.0,0.0,Soda,,
+Shasta Cola,12.0,170.0,43.0,3.6,Soda,,
+Shasta Diet Cola,12.0,0.0,47.0,3.9,Soda,,
+Shasta Mountain Rush,12.0,150.0,54.0,4.5,Soda,,
+Ski Soda,12.0,180.0,69.0,5.8,Soda,,
+Slurpee,12.0,90.0,30.0,2.5,Soda,,
+Soda Stream,8.0,40.0,31.0,3.9,Soda,,
+Sprecher Cherry Cola,16.0,240.0,0.0,0.0,Soda,,
+Sprite,12.0,140.0,0.0,0.0,Soda,,
+Squirt Soda,12.0,140.0,0.0,0.0,Soda,,
+Starbucks Refreshers Canned,12.0,90.0,50.0,4.2,Soda,,
+Sun Drop Soda,12.0,170.0,64.0,5.3,Soda,,
+Sunkist Orange Soda,12.0,160.0,19.0,1.6,Soda,,
+Tropicana Twister Soda,20.0,320.0,0.0,0.0,Soda,,
+Vernors Ginger Ale,12.0,140.0,0.0,0.0,Soda,,
+Wave Soda,12.0,25.0,42.0,3.5,Soda,,
+Wild Cherry Pepsi,12.0,160.0,38.0,3.2,Soda,,
+Zevia Cola,12.0,0.0,45.0,3.8,Soda,,
+28 Black Energy Drink,8.46,125.0,80.0,9.5,Energy Drink,2008.0,https://www.28black.com/en-US/about-us.html
+3D Energy Drink,16.0,15.0,200.0,12.5,Energy Drink,2017.0,https://www.stack3d.com/2018/08/3d-energy.html
+4 Purpose Energy Drink,8.46,70.0,70.0,8.3,Energy Drink,2016.0,https://www.bevnet.com/news/2017/4-purpose-energy-drink-marks-one-year-anniversary
+4C Energy Drink Mix,16.9,15.0,170.0,10.1,Energy Drink,,
+A Shoc,16.0,10.0,250.0,15.6,Energy Drink,,
+ABB Turbo Tea Zero,18.0,0.0,120.0,6.7,Energy Drink,2016.0,https://dsld.od.nih.gov/label/57387
+Accelerator,12.0,10.0,150.0,12.5,Energy Drink,,
+Advocare Slim,8.0,0.0,120.0,15.0,Energy Drink,,
+Alani Nu Energy Drink,12.0,10.0,200.0,16.7,Energy Drink,2018.0,https://www.reuters.com/markets/deals/energy-drink-maker-alani-nu-explores-options-including-sale-2023-07-18/
+ALL IN Energy Drink,12.0,25.0,75.0,6.2,Energy Drink,2016.0,https://www.drinkallin.com/pages/about-us
+Alsa Energy Drink Mix,16.0,30.0,100.0,6.2,Energy Drink,,
+AMIN.O. Energy Drink,12.0,5.0,100.0,8.3,Energy Drink,,
+Amino Force Energy Drink,22.0,0.0,200.0,9.1,Energy Drink,2016.0,https://dsld.od.nih.gov/label/56411
+Arbonne Energy Fizz Stck,8.0,15.0,55.0,6.9,Energy Drink,,
+Arizona Arnold Palmer Half and Half,16.9,180.0,15.0,0.9,Energy Drink,2001.0,https://www.arnoldpalmer.com/beverages
+Arizona Energy Drink Rx,11.5,130.0,127.0,11.0,Energy Drink,2001.0,https://caffeinepark.com/arizona-energy-drink-rx-caffeine-494/
+AXIO Energy Drink Mix,12.0,0.0,100.0,8.3,Energy Drink,,
+Bai Antioxidant Infusion,18.0,10.0,55.0,3.1,Energy Drink,2009.0,https://www.bevnet.com/news/2011/waking-up-to-coffee-fruit/
+Bai Boost,11.47,10.0,110.0,9.6,Energy Drink,2021.0,https://www.beverage-digest.com/articles/422-dr-pepper-zero-sugar-bai-boost-extensions-to-launch-in-march?v=preview
+Bang Energy,16.0,0.0,300.0,18.8,Energy Drink,2012.0,https://www.bevnet.com/news/2017/the-bang-revolution/
+Bang Keto Coffee,16.0,130.0,300.0,18.8,Energy Drink,2019.0,https://www.schottdistributing.com/2018/11/30/new-bang-keto-coffee-now-available/
+Bang Natural,16.0,0.0,250.0,15.6,Energy Drink,2019.0,https://thesuppplug.blogspot.com/2019/11/bang-energy-rolls-out-all-new-natural.html
+Bang Sweet Tea,16.0,0.0,300.0,18.8,Energy Drink,2018.0,https://markets.businessinsider.com/news/stocks/bang-shocks-beverage-world-with-triple-threat-tea-se-launch-1023013012
+BE Beyond Energy Drink,12.0,15.0,160.0,13.3,Energy Drink,2014.0,https://pitchbook.com/profiles/company/520469-02#overview
+Beaver Buzz Energy Drink,16.0,240.0,178.0,11.1,Energy Drink,2005.0,https://www.businesswire.com/news/home/20150602005504/en/Canadian-Underdog-Celebrates-Ten-Dam-Good-Years
+BEEBAD Energy Drink,8.46,110.0,80.0,9.5,Energy Drink,2017.0,"https://www.specialtyfood.com/news/article/beebad-a-revolutionary-honey-powered-energy-drink-to-debut-at-the-2017-summer-fancy-food-show-booth-4500-june-25-27-2017-124494/#:~:text=06%2F22%2F2017-,BEEBAD%2C%20A%20REVOLUTIONARY%20HONEY%2DPOWERED%20ENERGY%20DRINK%2C%20TO%20DEBUT,%2C%20June%2025%2D27%2C%202017&text=Healthy%2C%20great%2Dtasting%20beverage%20has%20people%20buzzing."
+Berocca,8.0,5.0,90.0,11.2,Energy Drink,,
+Berzerk Energy Drink Mix,16.0,5.0,200.0,12.5,Energy Drink,,
+Best Choice Strawberry Energy Drink Mix,8.0,5.0,120.0,15.0,Energy Drink,,
+Bing Energy Drink,12.0,30.0,120.0,10.0,Energy Drink,2006.0,https://bingbeverage.com/
+Black Bruin Energy Drink,8.46,122.0,38.0,4.4,Energy Drink,1997.0,https://www.facebook.com/blackbruintr/about_details
+Blu Frog Energy Drink,8.46,90.0,80.0,9.5,Energy Drink,2008.0,https://blufrog.wordpress.com/
+Blue Bolt (UK),8.46,112.0,80.0,9.5,Energy Drink,,
+Blue Charge (UK),8.46,49.0,80.0,9.5,Energy Drink,,
+Blue Spark (UK),8.46,56.0,75.0,8.9,Energy Drink,,
+Bodyarmour Edge,20.0,180.0,100.0,5.0,Energy Drink,2021.0,https://www.bevindustry.com/articles/93855-bodyarmor-releases-caffeinated-sports-drink
+Bomb Energy Drink,8.46,0.0,80.0,9.5,Energy Drink,2009.0,https://www.prnewswire.com/news-releases/canadian-energy-drink-companys-growth-on-fire-no-dragons-required-516524491.html
+Bomba (EU),8.4,123.0,80.0,9.5,Energy Drink,1994.0,https://issuu.com/bombaenergy0/docs/bomba_energy_drink_evaluation_criti
+Boost Energy (UK),8.46,58.0,80.0,9.5,Energy Drink,2001.0,"https://www.boostdrinks.com/about-boost/#:~:text=We%20were%20founded%20in%202001,and%20iced%20coffee%20you%20know!"
+BreinFuel,12.0,60.0,360.0,30.0,Energy Drink,2020.0,https://www.prnewswire.com/news-releases/launch-of-breinfuel-ignites-functional-beverage-category-with-high-performance-nootropic-beverage-301193860.html
+Bucked Up,16.0,0.0,300.0,18.8,Energy Drink,2019.0,https://voyageutah.com/interview/meet-ryan-gardner-of-bucked-up/
+Burn Energy Drink,12.0,163.0,112.0,9.3,Energy Drink,2002.0,"https://www.bevnet.com/news/2009/1-15-2009-burn_for_sale/#:~:text=BURN%2C%20launched%20in%20February%202002,brands%20and%20actually%20tasting%20great."
+C4 On The Go,12.0,0.0,200.0,16.7,Energy Drink,2018.0,https://reizeclub.com/is-c4-energy-drink-bad-for-you/
+C4 Performance Energy,16.0,0.0,200.0,12.5,Energy Drink,,
+C4 Smart Energy Drink,16.0,0.0,200.0,12.5,Energy Drink,2020.0,https://www.prnewswire.com/news-releases/new-c4-smart-energy-unlocks-superbrain-performance-300999787.html
+C4 Ultimate Energy Drink,16.0,0.0,300.0,18.8,Energy Drink,2018.0,https://www.stack3d.com/2018/05/c4-ultimate-energy-drink.html
+Carabao Energy Drink (UK),11.16,63.0,106.0,9.5,Energy Drink,2002.0,https://www.asianfoodlovers.com/en/energy-drink-150-ml-462
+Celsius Energy Drink,12.0,10.0,200.0,16.7,Energy Drink,2009.0,"https://celsiussverige.se/about-celsius/?lang=en#:~:text=CELSIUS%20is%20the%20original%20functional,functional%20drinks%20and%20energy%20drinks."
+Celsius Stevia,12.0,15.0,200.0,16.7,Energy Drink,,
+Cintron Energy Drink,8.4,60.0,85.0,10.1,Energy Drink,2010.0,http://www.times.co.sz/entertainment/22474-cintron-energy-drink-planning-to-bring-akon.html
+Club Mate (EU),16.91,160.0,100.0,5.9,Energy Drink,1994.0,https://www.kqed.org/bayareabites/105046/your-new-favorite-energy-drink-an-exclusive-club-mate-comes-to-sf
+Coca-Cola Cherry Vanilla,12.0,140.0,34.0,2.8,Energy Drink,2006.0,"https://the-soda.fandom.com/wiki/Coca-Cola_Cherry_Vanilla#:~:text=Not%20to%20be%20confused%20with,in%20the%20summer%20of%202007."
+Coca-Cola Energy,12.0,140.0,114.0,9.5,Energy Drink,2020.0,"https://www.cspdailynews.com/beverages/coca-cola-cuts-its-energy-drink#:~:text=Coca%2DCola%20Energy%2C%20which%20was,and%20their%20zero%2Dsugar%20counterparts."
+Cocaine Energy Drink,12.0,90.0,280.0,23.3,Energy Drink,2006.0,https://www.thrillist.com/drink/nation/cocaine-energy-drink-history
+Cran Energy Juice,10.0,40.0,70.0,7.0,Energy Drink,2008.0,https://www.mashed.com/269821/the-untold-truth-of-ocean-spray/
+Crave Energy Drink (UK),8.43,10.0,80.0,9.5,Energy Drink,2007.0,https://www.webwire.com/ViewPressRel.asp?aId=54567
+Crunk Energy Drink,16.0,200.0,192.0,12.0,Energy Drink,2004.0,https://www.crunkenergy.com/about
+Crystal Light Energy Mix,16.0,10.0,60.0,3.8,Energy Drink,,
+Dark Dog Organic Energy,12.0,110.0,114.0,9.5,Energy Drink,2000.0,https://www.darkdogenergy.com.sg/about-us
+Demon Energy Drink,16.91,253.0,160.0,9.5,Energy Drink,,
+Duff Energy Drink,12.0,170.0,120.0,10.0,Energy Drink,2007.0,"https://simpsonswiki.com/wiki/Duff_Beer_(real_world)#:~:text=In%202007%20a%20Duff%20Energy,the%20beer%20on%20The%20Simpsons."
+Dutch Bros Blue Rebel Energy Drink,8.4,160.0,80.0,9.5,Energy Drink,2012.0,"https://www.globenewswire.com/news-release/2012/04/02/1201191/0/en/Dutch-Bros-Announces-Dutch-Bros-Blue-Rebel-Energy-Drink-Line.html#:~:text=GRANTS%20PASS%2C%20OR%2D%2D(Marketwire,for%20the%20Grants%20Pass%2C%20Ore."
+EBOOST Energy Drink Mix,8.0,5.0,110.0,13.8,Energy Drink,,
+EBOOST Super Fuel,12.0,20.0,110.0,9.2,Energy Drink,2019.0,https://www.fb101.com/eboost-super-fuel-named-best-new-product-of-2019-by-bevnet/
+EBOOST Workout Crusher Mix,8.0,40.0,175.0,21.9,Energy Drink,,
+Electric Monkey Wild Energy Drink,16.0,220.0,160.0,10.0,Energy Drink,,
+EnerBee Energy Drink,12.0,80.0,100.0,8.3,Energy Drink,2014.0,https://www.bevindustry.com/articles/88063-enerbee
+Euro Shopper Energy Drink (EU),8.46,115.0,80.0,9.5,Energy Drink,,
+Fakeer Energy Drink (EU),12.52,148.0,118.0,9.4,Energy Drink,2012.0,https://www.foodbev.com/news/fakeer-energy-drink/
+Freeway Cola,11.16,135.0,32.0,2.9,Energy Drink,,
+Full Throttle Energy Drink,16.0,220.0,160.0,10.0,Energy Drink,2004.0,"https://en.wikipedia.org/wiki/Full_Throttle_(drink)#:~:text=Full%20Throttle%20is%20an%20energy,competitions%20from%202008%20to%202012."
+Gatorade Bolt 24 Energize,16.9,40.0,75.0,4.4,Energy Drink,2020.0,https://www.bevindustry.com/articles/92699-gatorade-bolt24-energize#:~:text=Gatorade%20BOLT24%20ENERGIZE%20%7C%202020%2D01%2D07%20%7C%20Beverage%20Industry
+Gatorade Fast Twitch,12.0,5.0,200.0,16.7,Energy Drink,,
+GFuel Cans,16.0,0.0,300.0,18.8,Energy Drink,2019.0,"https://gfuel.com/en-ca/blogs/news/g-fuel-now-available-16-ounce-cans-nationwide#:~:text=The%20G%20Fuel%20You've,to%20buy%20at%20gfuel.com."
+GFuel Energy Drink Mix,16.0,15.0,140.0,8.8,Energy Drink,,
+Ghost Energy Drink,16.0,5.0,200.0,12.5,Energy Drink,2016.0,https://www.bevindustry.com/articles/95710-how-ghost-energy-found-success-through-transparency
+Go Fast Energy Drink,16.0,200.0,160.0,10.0,Energy Drink,2001.0,https://www.dropzone.com/articles/news/go-fast-energy-drink-bolts-out-of-gate-r419/
+Go Fast High Octane Energy Drink,16.0,0.0,300.0,18.8,Energy Drink,2020.0,https://issuu.com/bevnet/docs/2021_functional-bev-guide
+Go Girl Energy Drink,12.0,25.0,100.0,8.3,Energy Drink,2020.0,"https://www.bevnet.com/news/2020/go-girl-energy-relaunches-under-new-ownership/#:~:text=%E2%80%94Fifteen%20years%20after%20being%20founded,busy%20women%20and%20active%20lifestyles."
+Goat Fuel,12.0,15.0,200.0,16.7,Energy Drink,,
+Great Value Energy Drink Enhancers,8.0,0.0,50.0,6.2,Energy Drink,,
+Great Value Energy Drink Mix,16.0,10.0,120.0,7.5,Energy Drink,,
+Gridlock Energy Drink,16.0,200.0,140.0,8.8,Energy Drink,2010.0,https://www.bevindustry.com/articles/82549-energy-drinks-leveling-field
+GURU Energy Drink,12.0,115.0,140.0,11.7,Energy Drink,1999.0,https://investors.guruenergy.com/en/about-us
+Hell Energy Drink (EU),8.46,115.0,80.0,9.5,Energy Drink,2006.0,https://www.hellenergy.com/en-about-us/
+Hi Ball Energy Drink,16.0,0.0,160.0,10.0,Energy Drink,2005.0,https://www.prnewswire.com/news-releases/anheuser-busch-partners-with-hiball-energy-and-alta-palla-brands-300491643.html
+Hyde Xtreme,12.0,0.0,400.0,33.3,Energy Drink,2020.0,https://www.prosupps.com/blogs/news/new-product-alert-hyde-xtreme-ready-to-drink
+Hype Energy Drink (EU),8.46,108.0,80.0,9.5,Energy Drink,2002.0,https://en-academic.com/dic.nsf/enwiki/4339323
+Irn Bru (UK),11.16,65.0,30.0,2.7,Energy Drink,2019.0,https://www.agbarr.co.uk/about-us/news/irn-bru-energy/
+Java Kick Coffee Cola,12.0,130.0,100.0,8.3,Energy Drink,2016.0,https://www.bevnet.com/news/2016/java-kick-coffee-cola-energy-drink-released/
+Java Monster,15.0,220.0,200.0,13.3,Energy Drink,2007.0,"https://investors.monsterbevcorp.com/static-files/1e783029-5454-4ab1-87b7-6fc871c51447#:~:text=In%20May%202007%20we%20launched,%E2%80%9D%20and%20%E2%80%9CMean%20Bean.%E2%80%9D"
+Java Monster 300,15.0,200.0,300.0,20.0,Energy Drink,2020.0,https://www.caffeineshark.com/post/new-energy-drinks-for-2020
+Joker Mad Energy,16.0,260.0,160.0,10.0,Energy Drink,2005.0,https://investors.monsterbevcorp.com/node/9501/html
+Juice Monster,16.0,160.0,160.0,10.0,Energy Drink,,
+Juvee,12.0,5.0,128.0,10.7,Energy Drink,,
+Kill Cliff Energy X Recover,12.0,20.0,25.0,2.1,Energy Drink,2011.0,https://ca.finance.yahoo.com/news/kill-cliff-tm-recovery-drink-130000954.html
+Kill Cliff Ignite,12.0,25.0,150.0,12.5,Energy Drink,2018.0,https://www.businesswire.com/news/home/20180710005226/en/KILL-CLIFF%C2%AE-Expands-Product-Line-Launches-New-Packaging-with-IGNITE-%E2%80%93-ENDURE-%E2%80%93-RECOVER-Full-System-of-Clean-Performance-Beverages
+Kin Spritz,8.0,25.0,50.0,6.2,Energy Drink,2019.0,https://www.forbes.com/sites/karineldor/2019/07/14/why-the-founder-of-kin-euphorics-wants-us-to-replace-booze-with-bliss/?sh=30016b9b2aff
+Kona Gold Energy Drink,12.0,150.0,115.0,9.6,Energy Drink,2016.0,"https://www.bevnet.com/news/2016/kona-gold-solutions-launches-hemp-energy-drink/#:~:text=ROCKLEDGE%2C%20Fla.%2C%20Aug.,%E2%80%94%20Kona%20Gold%20Solutions%2C%20Inc."
+LevlUp Gaming Booster,16.91,8.0,250.0,14.8,Energy Drink,,
+Liquid Help Energy Drink,16.0,0.0,300.0,18.8,Energy Drink,2019.0,https://www.youtube.com/watch?v=szEcKmBZpAM
+Liquid Ice Energy Drink,8.3,120.0,80.0,9.6,Energy Drink,2003.0,https://portal.liquidiceenergy.com/history/
+Live+ Energy Drink,16.9,227.0,150.0,8.9,Energy Drink,,
+Lucozade,12.85,133.0,46.0,3.6,Energy Drink,2017.0,https://www.telegraph.co.uk/business/2017/10/30/lucozade-cactus-juice-can-fuel-healthier-living/
+LYFT Energy Mix,8.0,4.0,125.0,15.6,Energy Drink,,
+M-150 Energy Drink,8.46,155.0,80.0,9.5,Energy Drink,1985.0,https://www.shelflife.ie/sparks-of-energy/
+Mamma Chia Energy,10.0,110.0,90.0,9.0,Energy Drink,2009.0,"https://mammachia.com/blogs/news/mamma-chia-celebrates-10th-anniversary-with-new-leadership-and-innovation#:~:text=About%20Mamma%20Chia&text=Founded%20in%202009%2C%20Mamma%20Chia,Energy%20Beverages%20and%20Chia%20Seeds."
+Marquis Energy Drink,12.0,0.0,100.0,8.3,Energy Drink,2010.0,"https://www.prnewswire.com/news-releases/marquis-introduces-its-first-botanical-inspired-flavor-lemon-lavender-to-drive-rapid-growth-301843569.html#:~:text=Marquis%20is%20an%20innovative%20beverage,unsustainable%20and%20needed%20a%20change."
+MATI Energy Drink,12.0,90.0,110.0,9.2,Energy Drink,2012.0,https://www.linkedin.com/company/mati-energy/about/
+Mega Monster Energy Drink,24.0,320.0,240.0,10.0,Energy Drink,,
+Meltdown Ketone Drink,12.0,18.0,225.0,18.8,Energy Drink,2018.0,https://www.prnewswire.com/news-releases/sleek-sexy-and-super-sophisticated-300650096.html
+Monster Assault,16.0,210.0,160.0,10.0,Energy Drink,2004.0,"https://investors.monsterbevcorp.com/static-files/42c190b0-bbbb-4a3f-a62d-0d987bcbb254#:~:text=During%202005%20we%20extended%20our,drink%20in%2016%20ounce%20cans."
+Monster Dragon Tea,23.0,100.0,60.0,2.6,Energy Drink,2019.0,https://www.bevnet.com/news/2019/monster-reveals-performance-energy-tea-innovations
+Monster Energy,16.0,210.0,160.0,10.0,Energy Drink,2002.0,https://www.forbes.com/profile/rodney-sacks/?sh=7ce76b812ae7
+Monster Hydro,25.4,150.0,188.0,7.4,Energy Drink,2017.0,"https://monster-energy.fandom.com/wiki/Monster_Hydro#:~:text=Monster%20Hydro%20is%20a%20series,is%20available%20in%20various%20country."
+Monster Import,18.6,190.0,179.0,9.6,Energy Drink,,
+Monster Lo-Carb,16.0,30.0,140.0,8.8,Energy Drink,2002.0,"https://cannedreviews.blogspot.com/2008/03/monster-lo-carb.html#:~:text=Monster%20debuted%20two%20different%20energy,it%20has%20an%20awesome%20taste."
+Monster Mango Loco,16.0,240.0,152.0,9.5,Energy Drink,2019.0,"https://www.prnewswire.com/news-releases/monster-energy-mango-loco-earns-nielsens-bases-top-25-breakthrough-innovation-award-301144675.html#:~:text=Launched%20in%20October%20of%202019,the%20festivities%20with%20the%20living."
+Monster Mule,16.0,210.0,160.0,10.0,Energy Drink,2021.0,https://www.cocacolaep.com/gb/news/2021/a-monster-start-to-the-year-with-trio-of-new-variants/
+Monster Nitro,16.0,220.0,160.0,10.0,Energy Drink,2021.0,https://www.cocacolaep.com/gb/news/2021/monster-packs-a-punch-with-supercharged-nitro-variant/
+Monster Pipeline Punch,16.0,190.0,160.0,10.0,Energy Drink,2019.0,https://monster-energy.fandom.com/wiki/Juiced_Monster_Pipeline_Punch
+Monster Rehab,15.5,25.0,160.0,10.3,Energy Drink,2011.0,https://www.businesswire.com/news/home/20130729005528/en/Research-and-Markets-Successes-and-Failures-Case-Study-Monster-Rehab
+Monster Reserve,16.0,120.0,160.0,10.0,Energy Drink,2021.0,"https://www.prnewswire.com/news-releases/monster-energy-introduces-new-monster-reserve-301398954.html#:~:text=CORONA%2C%20Calif.%2C%20Oct.,flavors%2C%20White%20Pineapple%20and%20Watermelon."
+Monster Ripper Energy Juice (UK),16.91,185.0,160.0,9.5,Energy Drink,,
+Monster The Doctor VR46 (UK),16.91,219.0,160.0,9.5,Energy Drink,2014.0,https://monster-energy.fandom.com/wiki/Monster_Energy_The_Doctor
+Monster Ultra,16.0,10.0,150.0,9.4,Energy Drink,2015.0,https://www.betterretailing.com/product-news/soft-drinks/monster-ultra-range-launches-in-convenience/
+Monster Zero Sugar,16.0,10.0,160.0,10.0,Energy Drink,2023.0,https://www.prnewswire.com/news-releases/monster-energy-launches-monster-energy-zero-sugar-301715741.html
+Moose Juice Energy Drink,16.94,0.0,200.0,11.8,Energy Drink,2017.0,https://www.conveniencestore.co.uk/products/moose-juice-rolls-out-seriously-strong-energy-drink/549878.article
+Mother Energy Drink,16.91,228.0,160.0,9.5,Energy Drink,2006.0,https://en-academic.com/dic.nsf/enwiki/4927600
+Mountain Dew Amp,16.0,220.0,142.0,8.9,Energy Drink,2001.0,https://mountaindew.fandom.com/wiki/Amp
+Mountain Dew Energy,16.0,25.0,180.0,11.2,Energy Drink,,
+Mountain Dew Game Fuel,16.0,90.0,90.0,5.6,Energy Drink,2007.0,"https://www.halopedia.org/Mountain_Dew_Game_Fuel#:~:text=Mountain%20Dew%20Game%20Fuel%2C%20produced,only%2012%20weeks%20in%20stores."
+Mountain Dew Spark,12.0,170.0,46.0,3.8,Energy Drink,2020.0,https://mountaindew.fandom.com/wiki/Spark
+Muscle Monster,15.0,180.0,157.0,10.5,Energy Drink,2013.0,https://www.beveragedaily.com/Article/2013/03/04/Monster-Beverage-buffs-up-Muscle-Monster-for-launch
+Nerd Focus,12.0,170.0,128.0,10.7,Energy Drink,2006.0,"https://www.prnewswire.com/news-releases/nerd-focus-named-official-energy-drink-of-the-texas-rangers-and-globe-life-field-301771883.html#:~:text=In%202006%2C%20a%20UTSA%20student,his%20own%20%22think%22%20drink."
+Neuro Sonic,14.5,35.0,100.0,6.9,Energy Drink,2009.0,https://www.bevnet.com/news/2009/9-1-2009-introducing_neuro/
+NOCCO Energy Drink (EU),11.17,0.0,180.0,16.1,Energy Drink,2014.0,https://nocco.com/about-us/
+NOS Energy Drink,16.0,200.0,160.0,10.0,Energy Drink,2005.0,https://www.bevnet.com/brands/nos_energy_drink
+Nuun Sport,16.0,15.0,40.0,2.5,Energy Drink,,
+OCA Energy Drink,12.0,60.0,120.0,10.0,Energy Drink,2020.0,https://app.bevnet.com/brandspotlights/global-flavors
+Octane Energy Drink Mix,12.0,25.0,225.0,18.8,Energy Drink,,
+Oikos Pro Fuel,10.0,130.0,100.0,10.0,Energy Drink,2019.0,https://www.prnewswire.com/news-releases/oikos-launches-new-protein-packed-caffeinated-dairy-beverage-line-to-fuel-your-hustle-300916273.html
+OK Energy Drink,8.45,113.0,80.0,9.5,Energy Drink,2009.0,https://stories.valora.com/en/valoras-own-brand-ok-a-success-story/
+Oli Pop Vintage Cola,12.0,35.0,50.0,4.2,Energy Drink,,
+PerformElite Pre-Workout,8.0,0.0,225.0,28.1,Energy Drink,,
+Perk Energy Beverage,8.0,90.0,100.0,12.5,Energy Drink,2016.0,"https://nittygrittyshow.com/2019/08/12/ep-13-perk-energy-rena-doman/#:~:text=Rena%20Doman%20is%20the%20owner,her%20husband%20launched%20Perk%20Energy."
+Power Horse Energy Drink (EU),8.45,125.0,80.0,9.5,Energy Drink,1994.0,https://www.bevnet.com/brands/powerhorse
+Prime Energy Drink,12.0,10.0,200.0,16.7,Energy Drink,2022.0,https://www.cnn.com/2023/07/10/business/prime-drink-caffeine-logan-paul-explainer/index.html
+Propel Zero Powder,16.0,0.0,0.0,0.0,Energy Drink,,
+Protein2O + Energy,16.91,70.0,125.0,7.4,Energy Drink,2019.0,https://www.bevnet.com/news/2019/protein2o-launches-protein2o-plus-energy/
+Pure Boost Energy Drink Mix,16.0,25.0,100.0,6.2,Energy Drink,,
+Pure Cofain 699 (EU),8.46,148.0,175.0,20.7,Energy Drink,,
+Pure Kick Energy Drink Mix,16.9,10.0,80.0,4.7,Energy Drink,,
+Quake Energy Berry Blast Slurpee,16.0,5.0,92.0,5.8,Energy Drink,2019.0,https://www.cspdailynews.com/foodservice/7-eleven-launches-slurpee-version-quake
+Quake Energy Drink,16.0,0.0,250.0,15.6,Energy Drink,2019.0,"https://www.prnewswire.com/news-releases/7-eleven-shakes-up-energy-drink-lineup-with-quake-private-brand-offering-300871297.html#:~:text=IRVING%2C%20Texas%2C%20June%2019%2C,private%20brand%20version%20%E2%80%93%20Quake%C2%AE."
+Rambler Energy Drink,16.0,60.0,120.0,7.5,Energy Drink,,
+Raze Energy Drink,16.0,0.0,300.0,18.8,Energy Drink,2018.0,https://www.stack3d.com/2018/08/first-look-razer-energy-drink.html
+Red Bull,8.46,117.0,80.0,9.5,Energy Drink,1987.0,https://www.caffeineinformer.com/caffeine-content/red-bull
+Red Bull Editions,8.46,113.0,80.0,9.5,Energy Drink,2013.0,"https://en.wikipedia.org/wiki/Red_Bull#:~:text=The%20company%20began%20expanding%20its,seasons%20or%20in%20certain%20regions."
+Red Bull Sugarfree,8.46,10.0,80.0,9.5,Energy Drink,2003.0,"https://en.wikipedia.org/wiki/Red_Bull#:~:text=Red%20Bull%20began%20offering%20variations,original%2C%20called%20Red%20Bull%20Sugarfree."
+Red Bull Zero,8.46,0.0,80.0,9.5,Energy Drink,2018.0,"https://en.wikipedia.org/wiki/Red_Bull#:~:text=In%202012%2C%20Red%20Bull%20released,more%20like%20the%20original%20flavor."
+Red Devil Energy Drink,16.0,0.0,160.0,10.0,Energy Drink,1995.0,https://en.wikipedia.org/wiki/Red_Devil_Energy_Drink
+Red Eye Energy Drink,11.1,149.0,106.0,9.5,Energy Drink,1995.0,https://en-academic.com/dic.nsf/enwiki/4375622
+Red Power Elixir,12.0,160.0,160.0,13.3,Energy Drink,2016.0,"https://www.winsightgrocerybusiness.com/wellness/red-elixir-introduced-healthy-alternative#:~:text=After%20a%20successful%20test%20market,being%20added%20across%20the%20country."
+Red Thunder Energy Drink,12.0,156.0,120.0,10.0,Energy Drink,,
+Redline Princess,8.0,0.0,300.0,37.5,Energy Drink,2008.0,https://trademarks.justia.com/776/18/redline-princess-mood-energy-fat-loss-matrix-77618330.html
+Redline Xtreme Energy Drink,8.0,0.0,316.0,39.5,Energy Drink,2007.0,https://trademarks.justia.com/771/56/redline-77156288.html
+Reign Storm,12.0,10.0,200.0,16.7,Energy Drink,,
+Reign Total Body Fuel,16.0,10.0,300.0,18.8,Energy Drink,2019.0,"https://en.wikipedia.org/wiki/Reign_(drink)#:~:text=Reign%20Total%20Body%20Fuel%20is,by%20the%20Monster%20Beverage%20Corporation."
+Rip It Energy Drink,16.0,260.0,160.0,10.0,Energy Drink,2004.0,"https://en.wikipedia.org/wiki/Rip_It#:~:text=It%20was%20introduced%20in%202004,.'s%20first%20energy%20drink.&text=National%20Beverage%20Corp.,-Country%20of%20origin&text=Marketed%20as%20%22energy%20fuel%20at,can%20in%20the%20United%20States."
+Roaring Lion Energy Drink,8.0,100.0,77.0,9.6,Energy Drink,2001.0,https://www.bevnet.com/supplierfinder/roaring_lion_energy_drink
+Rockstar Boom,16.0,280.0,160.0,10.0,Energy Drink,2015.0,https://www.theimpulsivebuy.com/wordpress/2015/07/02/spotted-on-shelves-rockstar-boom-energy-drink-whipped-strawberry-and-whipped-orange/
+Rockstar Energy Drink (Original),16.0,250.0,160.0,10.0,Energy Drink,2001.0,"https://en.wikipedia.org/wiki/Rockstar_(drink)#:~:text=Rockstar%20(stylized%20as%20ROCKST%E2%98%85,based%20in%20Purchase%2C%20New%20York."
+Rockstar Halo Infinite,16.0,250.0,240.0,15.0,Energy Drink,2021.0,"https://news.xbox.com/en-us/2021/10/04/rockstar-artist-series-cans-inspired-by-halo/#:~:text=Starting%20October%201%20and%20through,an%20Xbox%20Series%20X%20bundle."
+Rockstar Juiced,16.0,30.0,170.0,10.6,Energy Drink,2006.0,https://www.bevnet.com/brands/rockstar/rockstar_juiced
+Rockstar Organic Energy Drink,15.0,180.0,160.0,10.7,Energy Drink,,
+Rockstar Punched,16.0,260.0,240.0,15.0,Energy Drink,2007.0,https://www.bevnet.com/brands/rockstar/punched
+Rockstar Pure Zero,16.0,20.0,240.0,15.0,Energy Drink,,
+Rockstar Recovery,16.0,25.0,160.0,10.0,Energy Drink,2010.0,https://www.bevnet.com/brands/rockstar/recovery_lemonade
+Rockstar Sugar Free,16.0,25.0,160.0,10.0,Energy Drink,,
+Rockstar Thermo,16.0,0.0,300.0,18.8,Energy Drink,2020.0,https://www.stack3d.com/2020/01/rockstar-thermo-energy-drink.html
+Rockstar Unplugged,8.0,0.0,80.0,10.0,Energy Drink,2022.0,https://www.prnewswire.com/news-releases/rockstar-energy-drink-unveils-a-new-kind-of-energy-drink-rockstar-unplugged---with-hemp-seed-oil-and-b-vitamins-301472434.html
+Rockstar XDurance,16.0,10.0,300.0,18.8,Energy Drink,2018.0,https://www.stack3d.com/2018/08/rockstar-xdurance.html
+Rockstar Zero Carb,16.0,25.0,240.0,15.0,Energy Drink,2006.0,https://www.bevnet.com/brands/rockstar/rockstar_zero_carb
+Rogue Energy Drink,16.0,5.0,200.0,12.5,Energy Drink,,
+Rogue Energy Drink Mix,16.0,5.0,175.0,10.9,Energy Drink,,
+RootJack Caffeinated Pirate Root Beer,12.0,200.0,120.0,10.0,Energy Drink,2009.0,https://www.bilgemunky.com/pirate-reviews/other/rootjack/
+Rowdy Energy Drink,16.0,5.0,160.0,10.0,Energy Drink,2020.0,https://www.bevnet.com/news/2021/better-for-you-energy-drink-rowdy-energy-debuts-two-new-flavors-blue-raspberry-and-grape/
+Runa,12.0,0.0,150.0,12.5,Energy Drink,2015.0,https://en.wikipedia.org/wiki/Runa_LLC
+Rush! Energy Drink,8.3,120.0,80.0,9.6,Energy Drink,2003.0,https://www.linkedin.com/company/rush-energy-drinks-ltd/?originalSubdomain=uk
+Ryse Fuel,16.0,0.0,200.0,12.5,Energy Drink,,
+Sambazon Amazon Energy Drink,12.0,120.0,120.0,10.0,Energy Drink,2000.0,https://www.bevnet.com/news/2021/sambazon-secures-45m-investment-will-launch-sambazon-hospitality-group-to-compliment-retail-line/
+Scheckters Energy Drink,8.46,78.0,80.0,9.5,Energy Drink,2011.0,https://www.bevnet.com/brands/scheckters
+Slammers Energy Drink (EU),8.46,122.0,80.0,9.5,Energy Drink,,
+Sneak Energy Drink Mix,16.0,12.0,150.0,9.4,Energy Drink,,
+SoBe Energy Citrus,20.0,250.0,81.0,4.0,Energy Drink,1997.0,"https://www.encyclopedia.com/books/politics-and-business-magazines/south-beach-beverage-company-inc#:~:text=1995%3A,3G%2C%203C%2C%20Energy%20drinks."
+Solimo Energy Drink,16.0,10.0,152.0,9.5,Energy Drink,2019.0,"https://www.thebrainyinsights.com/report/energy-drinks-market-12984#:~:text=For%20instance%2C%20in%20April%202019,and%20Solimo%20Silver%20Energy%20Drink."
+Source 1899 (UK),8.46,58.0,80.0,9.5,Energy Drink,,
+Soylent Stacked,11.16,180.0,100.0,9.0,Energy Drink,2019.0,"https://www.prnewswire.com/news-releases/soylent-launches-the-first-complete-energy-drink-300979437.html#:~:text=LOS%20ANGELES%2C%20Dec.,fuel%20the%20mind%20and%20body."
+Spark Energy Drink Mix,8.0,15.0,120.0,15.0,Energy Drink,,
+Speed Energy Fuel,16.0,240.0,186.0,11.6,Energy Drink,2010.0,https://www.espn.com/racing/nascar/cup/news/story?id=5741721
+Spider Energy Drink,16.0,120.0,240.0,15.0,Energy Drink,2009.0,https://www.bevnet.com/news/2009/10-19-2009-spider_energy/
+Spike Hardcore Energy,16.0,0.0,350.0,21.9,Energy Drink,2009.0,https://issuu.com/bevnet/docs/novdec_09
+Spike Shooter,12.0,10.0,300.0,25.0,Energy Drink,2007.0,https://www.bevnet.com/news/2007/02-07-2007-Spike.asp
+Starbucks Triple Shot Energy,15.0,210.0,225.0,15.0,Energy Drink,2019.0,https://www.brandeating.com/2019/03/starbucks-releases-new-tripleshot-energy-canned-beverages.html
+Steaz Energy,12.0,140.0,100.0,8.3,Energy Drink,2006.0,https://foodchainmagazine.com/news/steaz/
+Strike Force Energy Drink Mix,16.91,0.0,160.0,9.5,Energy Drink,,
+T-Virus Antidote,12.0,160.0,100.0,8.3,Energy Drink,2012.0,"https://residentevil.fandom.com/wiki/User_blog:Forerunner/Resident_Evil_beverages#:~:text=For%20your%20energy%20drink%20lovers,to%20promote%20Resident%20Evil%3A%20Retribution."
+Taurus Energy Drink,8.46,180.0,50.0,5.9,Energy Drink,2015.0,https://www.minimeinsights.com/2016/06/11/new-taurus-energy-drink-recharge-vitamin-c-drink/
+TENZING Natural Energy,8.46,50.0,80.0,9.5,Energy Drink,2016.0,"https://uk.sodexo.com/inspired-thinking/insights/blog-item-1.html#:~:text=He%20launched%20Tenzing%2C%20a%20natural,summit%20of%20Everest%20in%201953."
+Tiger Energy Drink,8.46,0.0,80.0,9.5,Energy Drink,2003.0,https://en.wikipedia.org/wiki/Tiger_Energy_Drink
+Triton Energy Drink,16.0,15.0,200.0,12.5,Energy Drink,2020.0,https://www.foodbusinessnews.net/articles/17073--eleven-unveils-sugar-free-energy-drink
+Tru Energy Wakeup,12.0,10.0,100.0,8.3,Energy Drink,,
+True Lemon Energy Mix,16.0,0.0,120.0,7.5,Energy Drink,,
+Tweaker Energy Drink,8.46,110.0,80.0,9.5,Energy Drink,2017.0,https://www.bevindustry.com/articles/90340-tweaker-energy-drink
+Ugly Energy Water,16.0,0.0,160.0,10.0,Energy Drink,2019.0,https://www.bevnet.com/news/2019/ugly-drinks-announces-new-investment-launch-of-energy-line/
+UPTIME Energy Drink,12.0,150.0,142.0,11.8,Energy Drink,2014.0,"https://medium.com/authority-magazine/benjamin-kim-of-uptime-energy-on-5-things-you-need-to-create-a-successful-food-or-beverage-brand-bd4a12ca73b4#:~:text=Since%20its%20launch%20in%20July,better%2Dfor%2Dyou%20offering."
+USANA Rev3 Energy Drink,12.0,105.0,120.0,10.0,Energy Drink,2008.0,https://www.sequenceinc.com/fraudfiles/2008/08/usanas-new-rev3-energy-drink/
+V Energy Drink,8.45,116.0,78.0,9.2,Energy Drink,1997.0,"https://www.suntory.com/brands/v/#:~:text=Created%20and%20launched%20in%201997,more%20out%20of%20life%20today."
+V8 +Energy Drink,8.0,140.0,80.0,10.0,Energy Drink,2011.0,https://www.campbellsoupcompany.com/newsroom/press-releases/v8r-brand-energizes-its-portfolio-with-new-energy-drinks-and-shots/
+Venom Death Adder,16.0,160.0,160.0,10.0,Energy Drink,2008.0,https://en.wikipedia.org/wiki/Venom_Energy
+Virtue Clean Energy Beverage,8.46,8.0,80.0,9.5,Energy Drink,2016.0,"https://www.worldlandtrust.org/get-involved/corporate-supporters/virtue-drinks/#:~:text=Virtue%20Drinks%2C%20the%20multi%2Daward,and%20sugar%2Dfree%20energy%20drinks."
+Viso Energy Drink,17.0,140.0,300.0,17.6,Energy Drink,,
+Vuum,12.0,50.0,135.0,11.2,Energy Drink,,
+Wild Tiger Energy Drink,8.36,125.0,75.0,9.0,Energy Drink,,
+Wildcat Energy Drink (UK),8.46,115.0,80.0,9.5,Energy Drink,2010.0,https://www.linkedin.com/in/kassimrajani/?originalSubdomain=uk
+Wired X 3000 Energy Drink,16.0,220.0,185.0,11.6,Energy Drink,,
+Wired X Berry Rush,16.0,220.0,95.0,5.9,Energy Drink,,
+Wired X344 Energy Drink,16.0,220.0,344.0,21.5,Energy Drink,,
+X Ray Energy Drink,8.46,125.0,79.0,9.3,Energy Drink,,
+XL Energy Drink (EU),8.45,118.0,80.0,9.5,Energy Drink,1999.0,"https://www.zinkdistributing.com/breweries/xl-energy-drink/#:~:text=Our%20success%20story%20began%20in,have%20been%20consumed%20so%20far."
+XS Energy Drink,8.4,10.0,80.0,9.5,Energy Drink,2002.0,https://amwayconnections.com/amway/amway-2000s-growth-of-xs-home-technology/
+Xyience Energy Drink,16.0,15.0,160.0,10.0,Energy Drink,2006.0,https://www.bevindustry.com/articles/88710-xyience-re-launches-under-new-ownership
+Zest Sparkling Tea,12.0,60.0,135.0,11.2,Energy Drink,2017.0,"https://www.bevnet.com/news/2018/zest-tea-launches-rtd-line/#:~:text=The%20new%2012%20oz.,coffee%20and%20traditional%20energy%20drinks."
+Zevia Energy Drink,12.0,0.0,120.0,10.0,Energy Drink,2016.0,"https://en.wikipedia.org/wiki/Zevia#:~:text=In%20June%202016%2C%20Zevia%20launched,and%20Energy%20drink%20product%20lines."
+ZipFizz Energy Drink Mix,16.0,20.0,100.0,6.2,Energy Drink,2007.0,https://www.vendingmarketwatch.com/beverage/product/10109935/zipfizz-corp-zipfizz-energy-drink
+Zoa Energy Drink,16.0,100.0,160.0,10.0,Energy Drink,2021.0,https://www.molsoncoorsblog.com/molson-coors-zoa-investment
+7 Eleven Brewed Coffee,16.0,5.0,280.0,17.5,Coffee,,
+Alpine Start Instant Coffee,8.0,0.0,120.0,15.0,Coffee,,
+Americano Coffee,12.0,5.0,154.0,12.8,Coffee,,
+Arby's Jamocha Shake,16.0,830.0,12.0,0.7,Coffee,,
+Barista Bros Iced Coffee,16.91,204.0,140.0,8.3,Coffee,,
+Baskin Robbins Cappuccino Blast,24.0,470.0,234.0,9.8,Coffee,,
+Big Train Java Chip Ice Coffee,12.0,410.0,49.0,4.1,Coffee,,
+Biggby Brewed Coffee,16.0,0.0,200.0,12.5,Coffee,,
+Biggby Creamy Lattes,16.0,387.0,100.0,6.2,Coffee,,
+Biggby Espresso,2.0,0.0,100.0,50.0,Coffee,,
+Biggby Iced Coffee,16.0,0.0,155.0,9.7,Coffee,,
+Biohazard Coffee,12.0,3.0,928.0,77.3,Coffee,,
+Bizzy Cold Brew,2.67,0.0,125.0,46.8,Coffee,,
+Black Ink Coffee,12.0,0.0,144.0,12.0,Coffee,,
+Black Insomnia Coffee,12.0,0.0,1105.0,92.1,Coffee,,
+Black Label Brewed Coffee,12.0,0.0,1555.0,129.6,Coffee,,
+Bottled Iced Coffee Dunkin Donuts,13.7,260.0,171.0,12.5,Coffee,,
+Bulletproof Coffee,8.0,0.0,145.0,18.1,Coffee,,
+Cafe Bustelo,12.0,0.0,150.0,12.5,Coffee,,
+Cafe Con Leche,6.0,56.0,154.0,25.7,Coffee,,
+Caffe Mocha,12.0,239.0,152.0,12.7,Coffee,,
+Caffe Nero Coffee,12.0,5.0,160.0,13.3,Coffee,,
+Califia Farms Cold Brew Coffee,8.0,10.0,180.0,22.5,Coffee,,
+Cannonball Coffee Maximum Charge (UK),12.0,0.0,1101.0,91.8,Coffee,,
+Cappuccino,12.0,97.0,154.0,12.8,Coffee,,
+Caribou Brewed Coffee,16.0,5.0,305.0,19.1,Coffee,,
+Caribou Canned Cold Brew,11.5,10.0,177.0,15.4,Coffee,,
+CBD Coffee,8.0,0.0,100.0,12.5,Coffee,,
+Chameleon Cold Brew Coffee,8.0,15.0,260.0,32.5,Coffee,,
+Chameleon Cold Brew RTD,10.0,10.0,230.0,23.0,Coffee,,
+Chameleon Cold Brew With Milk,11.0,100.0,100.0,9.1,Coffee,,
+Chick-fil-A Brewed Coffee,10.0,0.0,136.0,13.6,Coffee,,
+Chick-fil-A Frosted Coffee,14.0,240.0,130.0,9.3,Coffee,,
+Chick-fil-A Iced Coffee,14.0,190.0,80.0,5.7,Coffee,,
+Choffy (roasted cacao),6.0,0.0,23.0,3.8,Coffee,,
+Coffee,8.0,0.0,163.0,20.4,Coffee,,
+"Coffee (Decaf, Instant)",8.0,6.0,2.0,0.3,Coffee,,
+Coffee (Instant),8.0,0.0,57.0,7.1,Coffee,,
+Coffee Bean & Tea leaf Coffee,16.0,5.0,333.0,20.8,Coffee,,
+Coffee Friend Brewed Coffee,8.46,0.0,145.0,17.1,Coffee,,
+Coffee Leaf Tea,8.0,0.0,20.0,2.5,Coffee,,
+COGO Caffeinated Hot Chocolate,6.0,110.0,98.0,16.3,Coffee,,
+CoolBrew Coffee,10.0,0.0,60.0,6.0,Coffee,,
+Costa Coffee,10.14,222.0,241.0,23.8,Coffee,,
+Crio Bru Brewed Cacao,8.0,20.0,10.0,1.2,Coffee,,
+Dare Iced Coffee,16.91,429.0,160.0,9.5,Coffee,,
+Death Wish Canned Cold Brew,8.0,15.0,300.0,37.5,Coffee,,
+Death Wish Coffee,12.0,0.0,728.0,60.7,Coffee,,
+Death Wish Latte,8.0,170.0,300.0,37.5,Coffee,,
+Decaf Coffee,8.0,2.0,6.0,0.7,Coffee,,
+Devils Brew Extreme Caffeine Coffee,12.0,0.0,1325.0,110.4,Coffee,,
+Driftaway Coffee,8.0,0.0,160.0,20.0,Coffee,,
+Dripdash Kyoto Coffee,6.0,0.0,225.0,37.5,Coffee,,
+Dunkin Donuts Shot In The Dark,8.1,80.0,134.0,16.5,Coffee,,
+Dunkin' Cold Brew,24.0,5.0,260.0,10.8,Coffee,,
+Dunkin' Donuts Brewed Coffee,14.0,5.0,210.0,15.0,Coffee,,
+Dunkin' Donuts Dunkaccino,14.0,350.0,83.0,5.9,Coffee,,
+Dunkin' Donuts Extra Charged Coffee,14.0,10.0,252.0,18.0,Coffee,,
+Dunkin' Donuts Iced Coffee,24.0,20.0,297.0,12.4,Coffee,,
+Dunkin' Donuts Iced Latte,24.0,100.0,166.0,6.9,Coffee,,
+Dunkin' Donuts Latte,14.0,100.0,166.0,11.9,Coffee,,
+Dutch Bros Coffee (Classic),20.0,10.0,187.0,9.3,Coffee,,
+Eight O'Clock Coffee,8.0,0.0,112.0,14.0,Coffee,,
+Einstein Bros Coffee,16.0,0.0,206.0,12.9,Coffee,,
+Espresso Monster,8.4,170.0,160.0,19.0,Coffee,,
+Espresso Shot,1.5,0.0,77.0,51.3,Coffee,,
+Flat White,12.0,170.0,130.0,10.8,Coffee,,
+Folgers Coffee,8.0,0.0,112.0,14.0,Coffee,,
+Gloria Jean's Coffee,2.028,0.0,67.0,33.0,Coffee,,
+Gold Peak Coffee,8.0,5.0,126.0,15.8,Coffee,,
+Gothrider Gasoline Coffee,8.0,0.0,200.0,25.0,Coffee,,
+Gourmesso Coffee Pods,1.35,0.0,65.0,48.1,Coffee,,
+Greek Coffee (Metrios),2.0,25.0,50.0,25.0,Coffee,,
+GymBrew Coffee,12.0,4.0,333.0,27.8,Coffee,,
+Hell Energy Coffee,8.46,150.0,100.0,11.8,Coffee,,
+High Brew Coffee,8.0,50.0,140.0,17.5,Coffee,,
+High Voltage Coffee (AU),12.0,0.0,1150.0,95.8,Coffee,,
+Illy Issimo Cafe,6.8,45.0,155.0,22.8,Coffee,,
+Indulgio Cappuccino,8.0,79.0,20.0,2.5,Coffee,,
+International Delight Iced Coffee,12.0,180.0,88.0,7.3,Coffee,,
+K Cup Decaf,8.0,0.0,4.0,0.5,Coffee,,
+K-Cup Coffee,8.0,0.0,100.0,12.5,Coffee,,
+Killer Coffee (AU),8.46,0.0,430.0,50.8,Coffee,,
+La Colombe Cold Brew,9.0,5.0,180.0,20.0,Coffee,,
+La Colombe Draft Latte,9.0,90.0,120.0,13.3,Coffee,,
+Latte,16.0,160.0,154.0,9.6,Coffee,,
+Long Black,6.0,2.0,154.0,25.7,Coffee,,
+Maxwell House Coffee,8.0,0.0,112.0,14.0,Coffee,,
+Maxwell House Max Boost Coffee,8.0,0.0,196.0,24.5,Coffee,,
+McDonalds (McCafe) Latte,16.0,190.0,142.0,8.9,Coffee,,
+McDonalds (McCafe) Mocha,16.0,380.0,167.0,10.4,Coffee,,
+McDonalds Coffee,16.0,0.0,145.0,9.1,Coffee,,
+McDonalds Iced Coffee,11.5,190.0,133.0,11.6,Coffee,,
+Muscle Milk Coffee House,11.0,130.0,120.0,10.9,Coffee,,
+Mushroom Coffee,8.0,10.0,50.0,6.2,Coffee,,
+Nescafe 3 in 1 Instant Coffee,6.0,74.0,50.0,8.3,Coffee,,
+Nescafe Dolce Gusto,8.0,0.0,106.0,13.2,Coffee,,
+Nescafe Gold,8.46,0.0,66.0,7.8,Coffee,,
+Nescafe Ice Java,8.0,50.0,100.0,12.5,Coffee,,
+Nescafe Ricoffy,8.0,10.0,6.0,0.8,Coffee,,
+Nespresso Coffee Capsules,1.35,0.0,60.0,44.4,Coffee,,
+Nestle Milo,8.0,80.0,4.0,0.4,Coffee,,
+Noocaf Smart Coffee,8.0,0.0,160.0,20.0,Coffee,,
+Ocean Spray Brew,8.0,30.0,40.0,5.0,Coffee,,
+Panera Bread Coffee,16.0,15.0,189.0,11.8,Coffee,,
+Peet's Brewed Coffee,16.0,5.0,267.0,16.7,Coffee,,
+Peet's Caffe Americano,16.0,10.0,140.0,8.8,Coffee,,
+Peet's Caffe Latte,16.0,190.0,140.0,8.8,Coffee,,
+Peet's Caffe Mocha,16.0,390.0,165.0,10.3,Coffee,,
+Peet's Cappuccino,16.0,140.0,140.0,8.8,Coffee,,
+Peet's Coffee Espresso,1.5,0.0,70.0,46.7,Coffee,,
+Peet's Decaf Espresso,1.5,0.0,10.0,6.7,Coffee,,
+Peet's Iced Coffee,16.0,0.0,150.0,9.4,Coffee,,
+Peet's Iced Latte,16.0,120.0,140.0,8.8,Coffee,,
+Peet's Iced Mocha,16.0,310.0,165.0,10.3,Coffee,,
+Premier Protein Cafe Latte,11.5,160.0,120.0,10.4,Coffee,,
+Private Selection Canned Espresso,15.0,230.0,145.0,9.7,Coffee,,
+Purity Coffee,8.0,0.0,163.0,20.4,Coffee,,
+Revv Coffee Pods,8.0,0.0,127.0,15.9,Coffee,,
+Robusta Coffee,8.0,0.0,265.0,33.1,Coffee,,
+Seattle's Best Brewed Coffee,12.0,10.0,260.0,21.7,Coffee,,
+SlimFast Shake - Cappuccino,11.0,180.0,100.0,9.1,Coffee,,
+Starbucks 2X Coffee Pods,8.0,0.0,260.0,32.5,Coffee,,
+Starbucks Bottled Cold Brew,11.0,50.0,180.0,16.4,Coffee,,
+Starbucks Bottled Iced Coffee,48.0,240.0,640.0,13.3,Coffee,,
+Starbucks Canned Nitro Cold Brew,11.0,0.0,235.0,21.4,Coffee,,
+Starbucks Caramel Macchiato,16.0,250.0,150.0,9.4,Coffee,,
+Starbucks Cold & Crafted,11.0,50.0,135.0,12.3,Coffee,,
+Starbucks Cold Brew Coffee,16.0,5.0,205.0,12.8,Coffee,,
+Starbucks Cordusio Mocha,8.0,130.0,155.0,19.4,Coffee,,
+Starbucks Decaf Coffee,16.0,0.0,25.0,1.6,Coffee,,
+Starbucks Doubleshot Energy,15.0,220.0,135.0,9.0,Coffee,,
+Starbucks Doubleshot Espresso,6.5,140.0,120.0,18.5,Coffee,,
+Starbucks Frappuccino (Bottled),13.7,300.0,110.0,8.0,Coffee,,
+Starbucks Grande Caffe Americano,16.0,15.0,225.0,14.1,Coffee,,
+Starbucks Grande Caffe Latte,16.0,190.0,150.0,9.4,Coffee,,
+Starbucks Grande Caffe Mocha,16.0,370.0,175.0,10.9,Coffee,,
+Starbucks Grande Cappuccino,16.0,140.0,150.0,9.4,Coffee,,
+Starbucks Grande Coffee,16.0,5.0,310.0,19.4,Coffee,,
+Starbucks Iced Americano,16.0,15.0,225.0,14.1,Coffee,,
+Starbucks Iced Espresso Classics,12.0,190.0,125.0,10.4,Coffee,,
+Starbucks Nitro Cold Brew Coffee,16.0,5.0,280.0,17.5,Coffee,,
+Starbucks Pink Drink,16.0,140.0,45.0,2.8,Coffee,,
+Starbucks Pumpkin Cream Cold Brew,16.0,250.0,185.0,11.6,Coffee,,
+Starbucks Refreshers,16.0,70.0,45.0,2.8,Coffee,,
+Starbucks Verismo Coffee Pods,8.0,0.0,60.0,7.5,Coffee,,
+Starbucks Via Ready Brew,8.0,0.0,135.0,16.9,Coffee,,
+Steep 18 Cold Brew,8.0,0.0,90.0,11.2,Coffee,,
+Stipe Miocic Extra Strength Coffee,12.0,0.0,500.0,41.7,Coffee,,
+Stok Coffee Shots,0.43,10.0,40.0,93.0,Coffee,,
+Stok Cold Brew,13.7,0.0,145.0,10.6,Coffee,,
+Stumptown Cold Brew Coffee,10.5,3.0,279.0,26.6,Coffee,,
+Stumptown Nitro Cold Brew,11.0,3.0,330.0,30.0,Coffee,,
+Sudden Instant Coffee,12.0,0.0,95.0,7.9,Coffee,,
+Sunup Pure Green Coffee,11.0,5.0,200.0,18.2,Coffee,,
+Taft Coffee (EU),12.0,0.0,1182.0,98.5,Coffee,,
+Taster's Choice Instant Coffee,8.0,0.0,98.0,12.2,Coffee,,
+Tim Hortons Large Brewed Coffee,20.0,5.0,270.0,13.5,Coffee,,
+Tim Hortons Small French Vanilla Coffee,10.0,0.0,60.0,6.0,Coffee,,
+TrueStart Performance Coffee,5.1,0.0,95.0,18.6,Coffee,,
+Turkish Coffee,2.0,20.0,50.0,25.0,Coffee,,
+V Iced Coffee,16.91,345.0,155.0,9.2,Coffee,,
+Very Strong Coffee,12.0,0.0,1350.0,112.5,Coffee,,
+Voila Instant Coffee,8.0,0.0,100.0,12.5,Coffee,,
+Waka Decaf Instant Coffee,8.0,0.0,4.0,0.5,Coffee,,
+Waka Indian Instant Coffee,8.0,0.0,70.0,8.8,Coffee,,
+Waka Instant Coffee,8.0,0.0,70.0,8.8,Coffee,,
+Wawa Coffee,16.0,4.0,290.0,18.1,Coffee,,
+Whipped (Dalgona) Coffee,8.0,48.0,105.0,13.1,Coffee,,
+Wide Awake Coffee Cold Brew,11.0,5.0,120.0,10.9,Coffee,,
+Wide Awake Energy Coffee,15.0,190.0,180.0,12.0,Coffee,,
+Wide Awake Iced Coffee Drinks,13.7,290.0,30.0,2.2,Coffee,,
+Zola Coconut Water Espresso,17.5,0.0,125.0,7.1,Coffee,,
+Arizona Iced Tea,16.0,190.0,30.0,1.9,Tea,,
+Big Train Spiced Chai,8.0,210.0,65.0,8.1,Tea,,
+Bigelow Tea,8.0,0.0,45.0,5.6,Tea,,
+Biggby Iced Tea,16.0,0.0,38.0,2.4,Tea,,
+Brew Dr Kombucha Uplift,14.0,80.0,130.0,9.3,Tea,,
+Brisk Iced Tea,12.0,70.0,11.0,0.9,Tea,,
+Brown Rice Tea,8.0,0.0,4.0,0.5,Tea,,
+Chai Tea,8.0,0.0,50.0,6.2,Tea,,
+Chick-fil-A Iced Tea,16.0,120.0,62.0,3.9,Tea,,
+Cold Brew Tea,8.0,0.0,70.0,8.8,Tea,,
+Crystal Light Iced Tea,8.0,5.0,10.0,1.2,Tea,,
+Dunkin' Donuts Iced Tea,24.0,230.0,63.0,2.6,Tea,,
+Fast Lane Black Tea,8.0,0.0,110.0,13.8,Tea,,
+Fuze Iced Tea,24.0,160.0,24.0,1.0,Tea,,
+Gold Peak Tea,18.5,0.0,48.0,2.6,Tea,,
+Guayaki Canned Yerba Mate,15.5,120.0,150.0,9.7,Tea,,
+Guayaki Yerba Mate Bottled Tea,16.0,80.0,140.0,8.8,Tea,,
+Guayusa Tea,8.0,0.0,41.0,5.1,Tea,,
+HICAF Tea,8.0,0.0,110.0,13.8,Tea,,
+Honest Iced Tea,16.9,70.0,63.0,3.7,Tea,,
+Inko's White Tea Energy,15.5,100.0,165.0,10.6,Tea,,
+K Cup Tea,8.0,0.0,41.0,5.1,Tea,,
+KOE Kombucha,12.0,35.0,15.0,1.2,Tea,,
+Kombucha Tea,8.0,30.0,24.0,3.0,Tea,,
+Lipton Iced Tea,20.0,110.0,25.0,1.2,Tea,,
+Lipton Natural Energy Tea,8.0,0.0,75.0,9.4,Tea,,
+Lipton Tea,8.0,0.0,55.0,6.9,Tea,,
+Liquid Death Iced Tea,19.2,30.0,30.0,1.6,Tea,,
+Master Brew Kombucha,15.2,60.0,76.0,5.0,Tea,,
+Matcha Tea,8.0,0.0,64.0,8.0,Tea,,
+McDonalds Sweet Tea,32.0,160.0,100.0,3.1,Tea,,
+Morning Thunder Tea,8.0,0.0,45.0,5.6,Tea,,
+Nestea Iced Tea,16.9,160.0,23.0,1.4,Tea,,
+Oi Ocha Green Tea,16.9,5.0,60.0,3.6,Tea,,
+Oregon Chai Tea,6.0,130.0,45.0,7.5,Tea,,
+Pacific Chai,6.0,90.0,29.0,4.8,Tea,,
+Peace Tea,23.0,150.0,23.0,1.0,Tea,,
+PG Tips Black Tea,6.78,0.0,50.0,7.4,Tea,,
+Pure Leaf Iced Tea,18.5,160.0,69.0,3.7,Tea,,
+Sencha Green Tea Shot,6.4,0.0,40.0,6.2,Tea,,
+Snapple Tea,16.0,150.0,37.0,2.3,Tea,,
+SoBe Green Tea,20.0,200.0,7.0,0.3,Tea,,
+Southern Sweet Tea,16.0,128.0,41.0,2.6,Tea,,
+Taiwanese Milk Tea,16.0,299.0,151.0,9.4,Tea,,
+Tazo Chai,8.0,0.0,47.0,5.9,Tea,,
+Tea (Black),8.0,0.0,42.0,5.2,Tea,,
+Tea (Decaf),8.0,0.0,4.0,0.5,Tea,,
+Tea (Green),8.0,0.0,18.0,2.2,Tea,,
+Tea (Herbal),8.0,0.0,0.0,0.0,Tea,,
+Tea (Iced),8.0,0.0,47.0,5.9,Tea,,
+Tea (Instant),8.0,0.0,40.0,5.0,Tea,,
+Tea (Jasmine),8.0,0.0,25.0,3.1,Tea,,
+Tea (Oolong),8.0,0.0,37.0,4.6,Tea,,
+Tea (White),8.0,0.0,28.0,3.5,Tea,,
+Teas' Tea Oolong,16.9,0.0,70.0,4.1,Tea,,
+Teavana Tea,8.0,0.0,41.0,5.1,Tea,,
+Tejava Iced Tea,12.0,0.0,50.0,4.2,Tea,,
+Turkey Hill Iced Tea,12.0,120.0,64.0,5.3,Tea,,
+Twig Tea (Kukicha),8.0,0.0,25.0,3.1,Tea,,
+Waka Instant Tea,8.0,0.0,30.0,3.8,Tea,,
+Wendy's Iced Tea,16.0,5.0,32.0,2.0,Tea,,
+Xing Craft Brew,16.0,5.0,120.0,7.5,Tea,,
+Xingtea Iced Green Tea,23.5,50.0,110.0,4.7,Tea,,
+Yellow Tea,8.0,0.0,63.0,7.9,Tea,,
+Yerba Mate Tea,8.0,0.0,40.0,5.0,Tea,,
+YMateina Yerba Mate,8.0,0.0,80.0,10.0,Tea,,
+Zest Highly Caffeinated Tea,8.0,0.0,150.0,18.8,Tea,,
+3 Water,16.9,0.0,50.0,3.0,Water,,
+AHA Sparkling Water,12.0,0.0,30.0,2.5,Water,,
+Arti Sparkling Water,12.0,0.0,120.0,10.0,Water,,
+Bubbl'r Sparkling Water,12.0,5.0,69.0,5.8,Water,,
+Bubly Bounce Sparkling Water,12.0,0.0,35.0,2.9,Water,,
+Bubly Sparkling Water,12.0,0.0,0.0,0.0,Water,,
+Caribou BOUsted Sparkling Water,11.5,0.0,75.0,6.5,Water,,
+GURU Sparkling Energy Water,12.0,0.0,100.0,8.3,Water,,
+Heroec Energy Water,16.9,0.0,60.0,3.6,Water,,
+Hint Caffeine Kick Water,16.0,0.0,60.0,3.8,Water,,
+La Croix Sparkling Water,12.0,0.0,0.0,0.0,Water,,
+Limitless Sparkling Water,12.0,0.0,35.0,2.9,Water,,
+MiO Energy Water Enhancer,8.0,0.0,60.0,7.5,Water,,
+Monster Tour Water,16.0,0.0,0.0,0.0,Water,,
+Pep Talk Sparkling Water,12.0,0.0,55.0,4.6,Water,,
+Perrier Energize,8.46,35.0,99.0,11.7,Water,,
+Perrier Sparkling Water,11.15,0.0,0.0,0.0,Water,,
+Phocus Sparkling Water,11.5,0.0,75.0,6.5,Water,,
+Poland Spring Sparkling Energy Water,11.5,35.0,75.0,6.5,Water,,
+Polar Frost Plus Energy,17.0,10.0,67.0,3.9,Water,,
+Polar Seltzer Water,12.0,0.0,0.0,0.0,Water,,
+Sparkling Ice +Caffeine,16.0,5.0,70.0,4.4,Water,,
+Tonic Water,10.0,110.0,0.0,0.0,Water,,
+VitaminWater Energy,20.0,100.0,50.0,2.5,Water,,
+VitaRain Zero Enhanced Water,20.0,0.0,42.0,2.1,Water,,
+Water Joe,20.0,0.0,70.0,3.5,Water,,
+Yerbae Sparkling Water,12.0,0.0,100.0,8.3,Water,,
+5 Hour Energy,1.93,4.0,200.0,103.6,Energy Shot,,
+5 Hour Energy Extra Strength,1.93,0.0,230.0,119.2,Energy Shot,,
+7-Eleven Energy Shot,2.0,0.0,260.0,130.0,Energy Shot,,
+Advocare Slam Energy Shot,2.0,10.0,120.0,60.0,Energy Shot,,
+Balance Active Shot,2.0,80.0,100.0,50.0,Energy Shot,,
+Balance Energy Shot,2.0,77.0,150.0,75.0,Energy Shot,,
+Bang Shot,3.0,0.0,300.0,100.0,Energy Shot,,
+Clif Shot Energy Gel,1.2,100.0,100.0,83.3,Energy Shot,,
+DynaPep,0.14,0.0,100.0,714.3,Energy Shot,,
+E6 Energy Shot,1.93,0.0,235.0,121.8,Energy Shot,,
+Equip Pure Energy Shot,1.8,35.0,100.0,55.6,Energy Shot,,
+Eternal Energy Extra Strength,1.93,0.0,280.0,145.1,Energy Shot,,
+Eternal Energy Shot,1.93,0.0,230.0,119.2,Energy Shot,,
+Forto Organic Coffee Shot,2.0,35.0,225.0,112.5,Energy Shot,,
+Kaffn8 Liquified Caffeine,0.25,0.0,75.0,300.0,Energy Shot,,
+Kirkland Energy Shot,2.0,5.0,180.0,90.0,Energy Shot,,
+Mana Energy Potion,1.69,25.0,75.0,44.4,Energy Shot,,
+Neu Nootropic Shot,2.0,0.0,350.0,175.0,Energy Shot,,
+Nutramint Smart Serum,2.0,45.0,200.0,100.0,Energy Shot,,
+Performance Caffeine,2.0,0.0,180.0,90.0,Energy Shot,,
+Phoenix Energy Shot,2.0,0.0,280.0,140.0,Energy Shot,,
+Proper Wild Energy Shot,2.5,25.0,180.0,72.0,Energy Shot,,
+Red Thunder Energy Shot,2.0,0.0,138.0,69.0,Energy Shot,,
+Red Thunder Extra Strength,2.0,0.0,230.0,115.0,Energy Shot,,
+Redline Max 300,2.5,0.0,300.0,120.0,Energy Shot,,
+Redline Xtreme Shot,3.0,5.0,300.0,100.0,Energy Shot,,
+Reed's Ginger Energize Shot,2.0,24.0,100.0,50.0,Energy Shot,,
+Rip It Energy Shot,2.0,0.0,120.0,60.0,Energy Shot,,
+Screamin Energy Max Hit,0.61,40.0,185.0,303.3,Energy Shot,,
+Spike Energy Double Shot,4.26,0.0,350.0,82.2,Energy Shot,,
+Stacker Extreme Energy Shot,2.0,0.0,205.0,102.5,Energy Shot,,
+TruBrain Extra,1.0,25.0,100.0,100.0,Energy Shot,,
+Tweaker Shot,2.0,0.0,275.0,137.5,Energy Shot,,
+Vital 4U Liquid Energy,0.5,34.0,155.0,310.0,Energy Shot,,
+Woke Up Energy Shot,1.93,0.0,225.0,116.6,Energy Shot,,
+X-Mode Energy Shot,1.0,0.0,150.0,150.0,Energy Shot,,
+Zombie Blood Energy Potion,3.4,25.0,80.0,23.5,Energy Shot,,
+Adrenaline Shoc,,,,,,2019.0,"https://www.prnewswire.com/news-releases/serial-beverage-entrepreneur-lance-collins-launches-adrenaline-shoc-300833592.html#:~:text=BEVERLY%20HILLS%2C%20Calif.%2C%20April,designed%20for%20today's%20active%20generation."
+C4 Energy Drink,,,,,,2018.0,https://reizeclub.com/is-c4-energy-drink-bad-for-you/
+Celsius Heat Energy Drink,,,,,,2017.0,https://www.prnewswire.com/news-releases/celsius-newest-product-launch-celsius-heat-selected-as-one-of-beverage-industrys-2017-innovations-of-the-year-300567519.html
+Live+  Energy Drink,,,,,,2018.0,https://www.mightyape.co.nz/product/live-plus-energy-drink-original-citrus-500ml/28204228
+Loud Energy Drink,,,,,,2007.0,https://www.foodingredientsfirst.com/news/loud-launches-beverage-company-with-line-of-energy-drinks.html
+Mountain Dew Rise,,,,,,2021.0,https://www.convenience.org/Media/Daily/2021/Mar/19/5-PepsiCo-Mtn-Dew-Rise-Energy-Drink_Marketing
+Xtreme Shock Energy Drink,,,,,,2005.0,https://www.bevindustry.com/articles/83963-advanced-nutrient-science-taking-energy-to-the-xtreme
+Lipovitan-D,,,,,,1962.0,"https://prowm.com/brewing/energy-drinks-history-rise-pasteurization/#:~:text=Early%20History%20of%20Energy%20Drinks,-Energy%20drinks%20have&text=The%20first%20energy%20drink%2C%20called,vitamins%2C%20taurine%2C%20and%20caffeine."
+Krating Daeng,,,,,,1975.0,https://en.wikipedia.org/wiki/Krating_Daeng

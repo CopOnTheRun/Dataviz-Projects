@@ -4,19 +4,8 @@ from matplotlib import pyplot as plt
 import matplotlib.ticker as mtick
 from scipy import stats
 from numpy import linspace
-
-def main():
-    df = pd.read_csv("Data/part_table_cleaned.csv", parse_dates=["created_utc"])
-    renames = {"Price": "Price (unadjusted)", "Price_Adj":"Price", "created_utc":"Date"}
-    df.rename(renames, inplace=True, axis="columns")
-    sns.set_theme()
-    whole = df.whole_comp == True
-    dollar = df.Symbol == "$"
-    after_2012 = df.Date >= "2013-01-01"
-    full_parts = df.loc[whole & dollar & after_2012]
-    quantile_year(full_parts)
-    part_cost(full_parts)
-    bitcoin_vs_gpu_prices(df)
+import bar_chart_race as bcr
+from datetime import datetime as dt
 
 def quantile_year(df, name = "Images/quantile_year.svg"):
     """Creates a graph of the quantiled price across time"""
@@ -40,11 +29,11 @@ def quantile_year(df, name = "Images/quantile_year.svg"):
 
 def part_cost(df,):
     #this is so I can create a quantile column
+    breakpoint()
     quantile = df.groupby('permalink').Price.sum().rank(pct=True).rename('quantile')
     #merges the column to the table
     df = df.merge(quantile, on='permalink')
-    keeper_parts = ["CPU","Video Card", "Motherboard", "Memory",
-                    "Storage","Power Supply","Case",]
+    keeper_parts = ["CPU","Video Card", "Motherboard","Memory","Storage","Power Supply","Case"]
     all_parts = set(df.Type.unique())
     toss_parts = all_parts - set(keeper_parts)
     df.Type.replace(toss_parts,"Other",inplace=True)
@@ -137,6 +126,96 @@ def bitcoin_vs_gpu_prices(df):
                  label = f"$y = {m*1000:.2}\\times 10^{{-3}}x + {b:.0f}$", ax = ax)
     fig.tight_layout()
     fig.savefig("Images/BTC_vs_Median_GPU.svg")
+
+def process_frame(df,part):
+    match part:
+        case "Video Card":
+            gpus = df.Type == part
+            regex = r"((?:[GR]TX?|Quadro|Radeon|Arc).*?[MG]B)"
+            df.loc[gpus,"Item"] = df.loc[gpus,"Item"].str.extract(regex, expand=False)
+            df.loc[gpus,"Item"] = df.loc[gpus,"Item"].str.replace(" GB","GB")
+        case "CPU":
+            cpus = df.Type == part
+            regex = r"(?:Intel|AMD)\s+(?:- )?(.*)\s+Processor"
+            df.loc[cpus,"Item"] = df.loc[cpus,"Item"].str.extract(regex,expand=False)
+            df.loc[cpus,"Item"] = df.loc[cpus,"Item"].str.replace(" GHz","GHz")
+            df.loc[cpus,"Item"] = df.loc[cpus,"Item"].str.replace("Quad","4")
+            df.loc[cpus,"Item"] = df.loc[cpus,"Item"].str.replace("Dual","2")
+        case "Case": 
+            cases = df.Type == part
+            regex = r"(.*?)\s*(?:\(.*\))?(?:\s?[IA]TX|\sCase)"
+            case_items = df.loc[cases,"Item"]
+            case_items = case_items.str.extract(regex,expand=False)
+            case_items = case_items.str.replace(" - "," ")
+            case_items = case_items.str.replace("Cooler Master","C.M.")
+            case_items = case_items.str.replace("Fractal Design","F.D.")
+            case_items = case_items.str.replace("Tempered Glass","TG", case=False)
+            df.loc[cases,"Item"] = case_items
+        case "Storage":
+            storage = df.Type == part
+            items = df.loc[storage, "Item"]
+            regex = r"(.*[TG]B).*?((?:NVME|Internal|Solid).*(?:Drive|Disk))"
+            strings = items.str.extract(regex)
+            items = strings[0] + " " + strings[1]
+            items = items.str.replace(" - ", " ")
+            items = items.str.replace("-Series", "")
+            items = items.str.replace(r" ([GT]B)", r"\1",regex=True)
+            #order matters for the next 2 lines!
+            items = items.str.replace("NVME Solid State Drive", "NVME")
+            items = items.str.replace(r"Solid State (?:Disk|Drive)", r"SSD", regex=True)
+            items = items.str.replace("Internal Hard Drive", "HDD")
+            df.loc[storage, "Item"] = items
+        case "Power Supply":
+            name = r"(?P<name>.*?)"
+            wattage = r"(?P<watt>\d+) ?W"
+            cert = r"(?:(?:80\+|80 PLUS)(?P<cert>.*)Certified)?"
+            mod = r"(?P<mod>\w+[- ]Modular)?"
+            rest = r"(.*) Power Supply"
+            regex = f"{name}\s*{wattage}\s*{cert}\s*{mod}{rest}"
+    return df
+
+def parts_race(df, parts, num):
+    part_frame = df[df.Type.isin(parts)]
+    quarters = part_frame.index.to_period("Q")
+    for x in parts:
+        process_frame(part_frame, x)
+
+    grouped_parts = part_frame.groupby(["Type",quarters]).Item.value_counts(normalize=True)
+    truncated_parts = grouped_parts.groupby(level=[0,1]).head(num)
+    wide_parts = truncated_parts.unstack([0,2],0)*10000
+
+    fig_kwargs = {'figsize': (8,4),
+                  'dpi': 250}
+    for x in parts:
+        start = dt.now()
+        bcr.bar_chart_race(
+            df = wide_parts[x],
+            title = f"Relative Popularity of {x}s on /r/buildapc",
+            filename = f"chart_race_{x}.mp4",
+            fig_kwargs = fig_kwargs,
+            n_bars = num,
+            period_length = 3000,
+            steps_per_period = 100,
+            end_period_pause = 700,
+            )
+        print(f"{x} finished after: {dt.now() - start}")
+
+def main():
+    df = pd.read_csv("Data/part_table_cleaned.csv", parse_dates=["created_utc"])
+    renames = {"Price": "Price (unadjusted)", "Price_Adj":"Price", "created_utc":"Date"}
+    df.rename(renames, inplace=True, axis="columns")
+    df.index = pd.to_datetime(df.Date)
+    sns.set_theme()
+    whole = df.whole_comp == True
+    dollar = df.Symbol == "$"
+    after_2012 = df.Date >= "2013-01-01"
+    breakpoint()
+    full_parts = df.loc[whole & dollar & after_2012]
+    quantile_year(full_parts)
+    part_cost(full_parts)
+    bitcoin_vs_gpu_prices(df)
+    #parts = ["Storage"]
+    #parts_race(df, parts , 8)
 
 if __name__ == "__main__":
     main()
