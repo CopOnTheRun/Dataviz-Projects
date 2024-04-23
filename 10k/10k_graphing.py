@@ -24,6 +24,7 @@ def graph_finish_times(df, title, plot_type, size = (10,15), **kwargs):
     title_file = title.replace(" ","_")
     fig.savefig(f"Images/{title_file}.svg")
     fig.savefig(f"Images/{title_file}.png", dpi = 300)
+    return fig
 
 def main():
     df = get_df()
@@ -31,15 +32,22 @@ def main():
     sns.set_style("dark")
 
     graph_participant_hist(df)
-    five_df = df
     graph_finish_times(df, "Finish Times by Gender", "histplot", hue = "Gender",size=(8,5),linewidth=0 )
+    graph_finish_times(df, "Finish Times by Age", "histplot", (8,8), y = "Age Group",)
+
+    five_df = df
     five_df["5K SPLIT"] = df["5K SPLIT"].astype(int)/10**9/3600
     five_df = five_df[five_df["5K SPLIT"] >0]
-    graph_finish_times(five_df, "Finish Times by 5k Split", "scatterplot", (8,5), y = "5K SPLIT", alpha=.1)
-    graph_finish_times(df, "Finish Times by Age", "histplot", (8,8), y = "Age Group",)
+    fig = graph_finish_times(five_df, "Finish Times by 5k Split", "scatterplot", (8,5), y = "5K SPLIT", alpha=.1)
+    sns.lineplot(ax = fig.axes[0], x=(.5,3.5),y=(.25,1.75),label="Paceline")
+    fig.savefig(f"Images/{fig.get_suptitle().replace(' ','_')}.svg")
+    fig.savefig(f"Images/{fig.get_suptitle().replace(' ','_')}.png",dpi=300)
+
+
     names = df["First Name"].value_counts()[:15]
     names_df = df[df["First Name"].isin(names.index)]
     graph_finish_times(names_df, "Finish Times by Name", "boxplot", y = "First Name", showfliers=False)
+
     toms = df[df["First Name"] == "Tom"]
     graph_finish_times(toms, "Finish Times by People Named Tom", "swarmplot", (9,5))
 

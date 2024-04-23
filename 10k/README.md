@@ -13,6 +13,9 @@ And there were a good spread of ages running.
 An interesting bimodal distribution pops up here. I'd imagine it's the division of runners and walkers.
 ![A histogram of participants](Images/Finish_Times_by_Gender.svg)
 
+Now one of the finish time vs 5k time:
+![A scatterplot of participants](Images/Finish_Times_by_5k_Split.svg)
+
 Here's a graph of the finishing time of those with the most popular names in the race. People named Ryan and Matthew are pretty fast. People named Mary have the slowest median time of those with popular names.
 ![A boxplot of participants](Images/Finish_Times_by_Name.svg)
 
