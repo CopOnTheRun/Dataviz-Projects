@@ -12,4 +12,4 @@ Here's a quick overview of the projects. Enter the projects directory for a more
 
 **Reddit Salary** - There was a salary transparency thread posted to the /r/rva subreddit. I wanted to know what the salary distribution looked like, so I pulled every comment from that thread and graphed the salaries.
 
-**Monument Avenue Reults** - Some graphs from the race results of the Monument Avenue 10k in 2024
+**Monument Avenue 10k Results** - Some graphs from the race results of the Monument Avenue 10k in 2024
