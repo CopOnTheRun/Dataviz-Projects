@@ -11,3 +11,5 @@ Here's a quick overview of the projects. Enter the projects directory for a more
 **Fridge Power** - I kept track of every occurrence the fridge and freezer door were opened for 100 days, as well as the fridge's power usage. How did I keep track? What did I learn? You'll have to dive into the folder to find out!
 
 **Reddit Salary** - There was a salary transparency thread posted to the /r/rva subreddit. I wanted to know what the salary distribution looked like, so I pulled every comment from that thread and graphed the salaries.
+
+**Monument Avenue Reults** - Some graphs from the race results of the Monument Avenue 10k in 2024
