@@ -14,7 +14,7 @@ An interesting bimodal distribution pops up here. I'd imagine it's the division 
 ![A histogram of participants](Images/Finish_Times_by_Gender.svg)
 
 Here's a graph of the finishing time of those with the most popular names in the race. People named Ryan and Matthew are pretty fast. People named Mary have the slowest median time of those with popular names.
-![A boxplot of participants](Images/10k_participants.svg)
+![A boxplot of participants](Images/Finish_Times_by_Name.svg)
 
 Tom's got a nice spread.
 
